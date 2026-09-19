@@ -1,0 +1,51 @@
+URL /reconnection
+TITLE Reconnection | Mindfully Priya
+DESC reflection journal for midlife professional successful women
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+h6: Something doesn't fit - but you can't quite name it yet.
+p: When did you last sit with a question that was just about you?
+p: Not your role, or your responsibilities. Definitely not what needs to be done or who needs you next.
+p: Just you - what you're feeling, what's been quietly building, what you haven't quite had the words for yet.
+p: Most women never do, not because they don't want to. but because they've never felt they had permission.
+p: The Reconnection is that permission.
+p: ​
+p: A private self-reflection of 12 questions, around 15 minutes,  created entirely for you. Not to produce anything, not to reach a conclusion. To finally hear yourself think, without the noise of everything and everyone else.
+p: ​
+p: There are no right answers, no scores, no categories. Nothing to perform and no one to reassure.
+p: Just an honest conversation with yourself, held in a space that belongs entirely to you.
+p: Once you've completed it, I'll read everything you've shared and write back to you personally within 72 hours.
+p: Not a template, a response that reflects what I see in your words, what's present, what's possible, what you might not yet have been able to say out loud.
+p: ​
+p: This is not a sales pitch. It's the beginning of a conversation.
+p: This is for you if you paused at that first question and felt something.
+p: ​ ​ ​ ​
+p: Begin The Reconnection →
+p: ​
+p: Your responses are private. Only I read them. You'll hear from me within 72 hours.
+h2: Let's Get Started
+a: [Begin the reflection](https://tally.so/r/yPoRo4)
+p: I felt truly seen, but it also challenged me gently and precisely. Priya gave me loads to think about."
+p: Kate Llewellyn, Award-Winning Content Confidence Coach and Consultant.
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/11062b_679e86cb88754d809cb9eb529101a8e7~mv2.jpeg/v1/crop/x_2067,y_0,w_1874,h_2584/fill/w_456,h_628,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Writing%20by%20the%20Lake.jpeg | Writing by the Lake
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6ea5b4a88f0b4f91945b40499aa0af00.png | LinkedIn

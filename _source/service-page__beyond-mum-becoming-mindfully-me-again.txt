@@ -1,0 +1,105 @@
+URL /service-page/beyond-mum-becoming-mindfully-me-again
+TITLE Beyond Mum: Becoming Mindfully Me Again | Mindfully Priya
+DESC You love your family deeply, but somewhere along the way…
+you stopped recognising the woman in the mirror.
+The one who used to dream, laugh freely, and feel connected to herself.
+The one who now carries the mental load, the guilt, and the invisible pressure to do it all.
+It’s time to come home to you.
+
+✨ A soulful coaching experience for women and mums ready to:
+Reclaim their identity beyond the role of “mum”
+Release guilt, comparison, and the pressure to be perfect
+Create balance, calm, and a life that actually feels good
+
+Beyond Mum: Becoming Mindfully Me Again™ is a 1:1 coaching journey created to guide you gently - but powerfully - back to yourself.
+
+Using a blend of mindfulness, core energy coaching, and emotional awareness tools, we’ll explore who you are now, what’s holding you back, and what you truly want.
+
+This isn’t just about self-care.
+It’s self-reconnection.
+Because when you feel grounded in who you are, everything else flows more easily - parenting, relationships, work, and your own sense of joy.
+
+What’s included:
+5,6 or 9 x 60-minute private coaching sessions via Zoom (1 per week)
+With the 6 or 9 sessions, you will receive a free personalised ELI report/ session (Energy Leadership Index)
+Weekly reflection prompts & mindfulness practices
+Support between sessions via WhatsApp voice notes (Mon–Fri)
+
+What you’ll walk away with:
+A clearer sense of who you are (not just what you do)
+Mindful ways to manage stress, guilt, and emotional overload
+Tools to shift from “always doing” into calm, connected being
+Confidence to set boundaries, prioritise yourself, and live with intention
+A renewed relationship with yourself—and the space to breathe again
+
+
+
+
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+button: Book Now
+li: Home
+a: [Home](https://www.mindfullypriya.com)
+li: Service list
+a: [Service list](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Beyond Mum: Becoming Mindfully Me Again
+p: Reclaim your identity, release the guilt, and reconnect with the woman you were always meant to be.
+span: 1 hr 1 h
+span: 1 hr
+span: 1 h
+span: Zoom
+button: Book Now
+h2: Service Description
+p: You love your family deeply, but somewhere along the way…
+you stopped recognising the woman in the mirror.
+The one who used to dream, laugh freely, and feel connected to herself.
+The one who now carries the mental load, the guilt, and the invisible pressure to do it all.
+It’s time to come home to you.
+
+✨ A soulful coaching experience for women and mums ready to:
+Reclaim their identity beyond the role of “mum”
+Release guilt, comparison, and the pressure to be perfect
+Create balance, calm, and a life that actually feels good
+
+Beyond Mum: Becoming Mindfully Me Again™ is a 1:1 coaching journey created to guide you gently - but powerfully - back to yourself.
+
+Using a blend of mindfulness, core energy coaching, and emotional awareness tools, we’ll explore who you are now, what’s holding you back, and what you truly want.
+
+This isn’t just about self-care.
+It’s self-reconnection.
+Because when you feel grounded in who you are, everything else flows more easily - parenting, relationships, work, and your own sense of joy.
+
+What’s included:
+5,6 or 9 x 60-minute private coaching sessions via Zoom (1 per week)
+With the 6 or 9 sessions, you will receive a free personalised ELI report/ session (Energy Leadership Index)
+Weekly reflection prompts & mindfulness practices
+Support between sessions via WhatsApp voice notes (Mon–Fri)
+
+What you’ll walk away with:
+A clearer sense of who you are (not just what you do)
+Mindful ways to manage stress, guilt, and emotional overload
+Tools to shift from “always doing” into calm, connected being
+Confidence to set boundaries, prioritise yourself, and live with intention
+A renewed relationship with yourself—and the space to breathe again
+h2: Contact Details
+p: 07957325503
+p: hello@mindfullypriya.com
+p: South London, UK
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn

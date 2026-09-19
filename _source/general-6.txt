@@ -1,0 +1,116 @@
+URL /general-6
+TITLE Corporate  | Mindfully Priya
+DESC Coaching and workshops for teams and leaders, supporting through transitions, wellbeing, emotional intelligence and sustainable success in the workplace. 
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+h1: Coaching & Workshops for Teams and Leaders
+p: Supporting wellbeing, emotional intelligence, and sustainable success in the workplace.
+h2: 1:1 Executive & Leadership Coaching
+p: For ambitious corporate women looking to:
+p: ✔ Step into leadership with confidence & authenticity. ✔ Overcome stress, self-doubt, and imposter syndrome. ✔ Thrive at work and in life—without feeling drained.
+h2: Energy Leadership® Index (ELI)
+p: Assessment ELI reveals how your mindset and energy shape the way you lead, especially under pressure..:
+p: ✔ See how you show up day to day and in stressful moments ✔ Shift from reactive patterns to calmer, more effective leadership ✔ Create positive impact for yourself, your team, and your business
+h2: Corporate Well-being & Leadership Workshops
+p: Helping organisations support women in leadership and working mums through: ✔ Mindful Leadership – Cultivating resilience, influence & confidence. ✔ Stress & Energy Management – Strategies to stay productive without burnout.
+p: ✔ Work-Life Integration – Empowering working mums to succeed with ease.
+a: [Enquire for more information](mailto:hello@mindfullypriya.com?subject=Corporate%20Coaching%20enquiry)
+a: [Read More](https://www.ipeccoaching.com/blog/energy-leadership-index)
+h2: Unlock Your Potential with the Energy Leadership Index (ELI) Assessment
+p: The Energy Leadership Index (ELI) Assessment is one of the most innovative assessment tools on the market. Featured in Forbes as a must-have for improving corporate leadership, this assessment actually has the profound potential to create amazing insight and fast track change in ALL areas of your life. For example, the ELI can help you uncover how you react to stress and challenges, so you can develop a plan to become a better leader.
+p: ​
+p: Every day, our mindset shapes how we lead, collaborate, and make decisions. The Energy Leadership® Index (ELI) Assessment uncovers the hidden patterns behind how you show up at work, especially under stress, and helps you shift from reactive to empowered
+h4: Why Energy Matters
+li: Beyond personality tests. Unlike static personality assessments, the ELI looks at your attitudes and perceptions and shows how they change in different situations.
+li: Seven levels of leadership. You’ll see where you spend most of your energy, from stressful, draining states to those that inspire creativity and performance.
+li: Real business impact. Leaders who harness constructive (“anabolic”) energy see better team engagement, greater innovation, and stronger results.
+li: Quick online assessment. Spend about 20 minutes answering questions about how you think and react in everyday situations.
+li: Personalised debrief. You’ll have a 60–90-minute one-on-one session with me, a certified Energy Leadership practitioner, to explore your results and identify growth opportunities.
+li: Action plan. Together we’ll map out simple shifts you can make to lead with more clarity, confidence, and purpose.
+h4: How It Works
+li: Individual Insight: Perfect for executives and managers who want to raise self-awareness and sharpen their impact.
+li: Team Experience: Give your whole team the language and tools to improve communication, accountability, and trust.
+li: 360° Perspective: Add feedback from colleagues and stakeholders for a complete picture of your leadership energy.
+h4: Choose Your Path
+a: [Read More](https://www.ipeccoaching.com/blog/energy-leadership-index)
+p: Ready to Transform?
+p: If you’re curious about how your energy influences your leadership and how small shifts can make a big difference let’s talk.
+p: Book a consultation or get in touch using the contact form.
+p: Together, we’ll find the best option for you or your team.
+a: [Get in touch](mailto:hello@mindfullypriya.com?subject=ELI%20Assessment%20interest)
+h1: Coaching for Corporate Women in Leadership
+h2: Reports shows that less than a quarter (24%) of women go back to full-time after having children, and of that 24%, 79% ended up leaving anyway due to not being able to maintain a full-time role alongside having a baby.
+p: This statistic highlights a critical issue: businesses are losing talented, experienced women due to a lack of support in balancing work and family life. The cost of recruitment, retention, and lost expertise is significant, yet there is a solution—one that benefits both mothers and organisations.
+h2: Lead. Thrive. Be Present.
+h2: Coaching for Mothers Returning from Maternity Leave
+p: Supporting Businesses & Mothers for a Smooth Transition Back to Work
+p: Returning to work after maternity leave is a pivotal moment, one that affects both mothers and businesses. Without the right support, many talented women struggle to balance work and family life, leading to stress, burnout, and even career breaks.
+h4: Benefits for Businesses & Organizations:
+h4: ​
+p: ✅ Retain Top Talent – Reduce turnover by providing support that helps mothers stay and thrive.
+p: ✅ Boost Employee Well-being – Lower stress and increase confidence in returning mothers.
+p: ✅ Enhance Productivity – A supported employee is more engaged, focused, and efficient.
+p: ✅ Strengthen Workplace Culture – Foster inclusivity and position your company as family-friendly.
+p: ✅ Reduce Sickness & Burnout – Prevent exhaustion by equipping mothers with the right mindset and tools.
+h4: How This Coaching Supports Mothers:
+h4: ​
+p: ✅ Gain confidence , overcome self-doubt and imposter syndrome to feel empowered in your role.
+p: ​
+p: ✅ Work-Life Balance , understanding how to manage your career and motherhood without feeling overwhelmed.
+p: ​
+p: ✅ Manage Emotional Resilience & Stress using mindfulness tools to handle challenges with calm and clarity.
+p: ​
+p: ✅ Redefining Your Professional Identity by navigating career growth while embracing your new role as a mother.
+p: ​
+p: We provide specialist coaching to help mothers transition back into the workplace with confidence and clarity.
+p: We recommend at least 9 sessions, 4 sessions before returning to work and 4-5 sessions after maternity leave.
+p: For more information,  please do contact me directly
+a: [Email me](mailto:hello@mindfullypriya.com?subject=Coaching%20for%20women%20on%20maternity%20leave)
+p: 1
+h3: Who I Work With
+p: I work with individuals, leaders, and organisations who value people, purpose, and progress. Whether you're navigating high stress, organisational change, or simply want to create a more conscious and connected culture , I’m here to help.
+p: With a background in the corporate world and years of experience as a certified coach and mindfulness practitioner, I understand the pressures professionals face and the toll it can take on energy, confidence, and clarity.
+p: 2
+h3: How I Support You
+li: 1:1 Coaching for Staff and Leaders
+p: Confidential sessions that improve clarity, resilience, emotional wellbeing, and conscious leadership
+li: Team Workshops & Wellbeing Sessions
+p: Practical, reflective sessions that empower teams with tools to reduce stress, increase collaboration, and bring more presence and energy into their work.
+li: Tailored Programmes
+p: Bespoke coaching or workshop series aligned with your organisation’s goals - whether it’s burnout prevention, supporting working parents, or developing emotional agility in leadership.
+p: 3
+h3: My Approach
+p: My coaching blends mindful awareness with a powerful energy-based framework t hat helps people understand how they show up in the world and how that influences everything from their well-being to their relationships, leadership, and sense of purpose.
+p: I specialise in helping individuals navigate transitions , whether it’s a career change, leadership growth, returning to work, identity shifts, or life simply feeling “off.” These moments often surface deeper questions, hidden stressors, or patterns that no longer serve us.
+p: Rather than offering surface-level fixes, I help you uncover the root of what’s draining your energy, keeping you stuck, or triggering self-doubt. We gently explore the beliefs, habits, and responses that shape how you think, lead, connect, and make decisions, especially under pressure.
+p: ​
+a: [Contact me](mailto:hello@mindfullypriya.com?subject=Corporate%20mindful%20life%20coaching%20)
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/11062b_56fa6ab3a31145a2ad376f9fb29c8551~mv2.jpeg/v1/fill/w_95,h_63,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/11062b_56fa6ab3a31145a2ad376f9fb29c8551~mv2.jpeg | Stang-up Meeting
+https://static.wixstatic.com/media/11062b_21bf7dae3bcd4939b5556c9b8c9ed8d6~mv2.jpeg/v1/crop/x_272,y_0,w_5041,h_3723/fill/w_306,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Working%20in%20the%20Office.jpeg | Working in the Office
+https://static.wixstatic.com/media/dddd96_337cbc0bd37e4713bebae795a1e674c4~mv2.png/v1/crop/x_0,y_0,w_1080,h_981/fill/w_306,h_278,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/5.png | 5.png
+https://static.wixstatic.com/media/d66527c1e3124e97a85a197dc2964fbe.jpg/v1/fill/w_306,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Conference.jpg | Conference
+https://static.wixstatic.com/media/dddd96_8cf6dfcfd9f44af4ad5c9bea6964b7aa~mv2.png/v1/fill/w_258,h_201,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2.png | 2.png
+https://static.wixstatic.com/media/dddd96_fecfc69b592246989f165e502fc36203~mv2.png/v1/fill/w_266,h_268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1.png | 1.png
+https://static.wixstatic.com/media/dddd96_487c5dc0932840c0ac58040b4b5e52d2~mv2.png/v1/fill/w_271,h_268,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3.png | 3.png
+https://static.wixstatic.com/media/dddd96_42c5e30e7cc0437dbc0b57caa1da920c~mv2.png/v1/fill/w_271,h_253,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png | 4.png
+https://static.wixstatic.com/media/11062b_6012f9e3bf99417dafd05d82449786c2~mv2.jpg/v1/crop/x_0,y_546,w_5000,h_2420/fill/w_930,h_445,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Outdoor%20Work%20Meeting.jpg | Outdoor Work Meeting
+https://static.wixstatic.com/media/11062b_15277962847a44639c30e2b5d652f840~mv2.jpg/v1/crop/x_1000,y_0,w_3998,h_3998/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Working%20from%20Home.jpg | Working from Home
+https://static.wixstatic.com/media/11062b_63b3263faa884e3d8f9e785cb8bd6eb5~mv2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/11062b_63b3263faa884e3d8f9e785cb8bd6eb5~mv2.jpg | Office Hall

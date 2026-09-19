@@ -1,0 +1,72 @@
+URL /one-to-one-coaching-programs
+TITLE 1:1 Mindful Coaching Programs for Women & Mums in UK | Mindfully Priya
+DESC Find the perfect 1:1 mindful coaching program for you being a woman/mother. From new mums to South Asian British mums, we offer tailored programs to support your journey in UK.
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+h1: 1:1 Mindful Life Coaching
+p: After years of navigating the fast-paced corporate world while raising two children, I found myself overwhelmed and searching for balance . It was through mindfulness that I discovered a path to calm and emotional awareness, not just for my children but for myself. I’m here to help women reconnect with themselves, restore balance , and cultivate patience and joy through mindful coaching . Let’s transform your life together.
+a: [mindful coaching](https://www.mindfullypriya.com/mindfully-priya-coaching)
+p: ​
+p: You hold so much.
+p: You give so much.
+p: When was the last time someone asked how you really are and waited for the honest answer?
+p: My 1:1 coaching offers a sacred space just for you. A space to pause, breathe, and finally tune in to what you need.
+p: Whether you're feeling overwhelmed, questioning your identity, or simply craving more balance and joy in your life, this is your invitation to come back to yourself, with gentleness, with compassion, and without guilt.
+p: Using a powerful blend of mindfulness, leadership energy coaching, and soulful reflection, I’ll support you in shifting old patterns, releasing what no longer serves you, and stepping into the calm, confident woman you’re meant to be.
+span: Service Information
+li: Free 30 min session Read More Request to Book
+h2: Free 30 min session
+a: [Read More](https://www.mindfullypriya.com/service-page/free-30-min-session)
+a: [Request to Book](https://www.mindfullypriya.com/booking-calendar/free-30-min-session)
+li: 1:1 Clarity Coaching Session Read More 98 British pounds £98 Book Now
+h2: 1:1 Clarity Coaching Session
+a: [Read More](https://www.mindfullypriya.com/service-page/1-1-clarity-coaching-session)
+a: [Book Now](https://www.mindfullypriya.com/booking-calendar/1-1-clarity-coaching-session)
+li: 1:1 coaching package (9 sessions) Read More More Info
+h2: 1:1 coaching package (9 sessions)
+a: [Read More](https://www.mindfullypriya.com/service-page/1-1-coaching-package-9-sessions)
+a: [More Info](https://www.mindfullypriya.com/service-page/1-1-coaching-package-9-sessions)
+li: Career Clarity Reset Read More Book Now
+h2: Career Clarity Reset
+a: [Read More](https://www.mindfullypriya.com/service-page/career-clarity-reset)
+a: [Book Now](https://www.mindfullypriya.com/booking-calendar/career-clarity-reset)
+li: Beyond Mum: Becoming Mindfully Me Again Read More Book Now
+h2: Beyond Mum: Becoming Mindfully Me Again
+a: [Read More](https://www.mindfullypriya.com/service-page/beyond-mum-becoming-mindfully-me-again)
+a: [Book Now](https://www.mindfullypriya.com/booking-calendar/beyond-mum-becoming-mindfully-me-again)
+h1: Programs
+span: All programs
+span: Online Programmes
+li: 10 Days of Mindful Moments View Details
+h2: 10 Days of Mindful Moments
+a: [View Details](https://www.mindfullypriya.com/challenge-page/10days-mindfulmoments?programId=dc2676be-0481-4845-8f94-d342b42e202c)
+a: [JOIN US](mailto:hello@mindfullypriya.com?subject=I%20hear%20you%2C%20I%20understand%20you%2C%20I%20get%20you)
+a: [Let's chat](mailto:hello@mindfullypriya.com?subject=You're%20not%20alone%2C%20lets%20chat)
+p: Reconnect with Your True Self: Mindful Coaching for Women Ready to Thrive.
+p: ​
+p: Discover the Power of Mindful Transformation and Unlock the Strength Within to
+p: Lead Your life with Purpose, Balance and Joy
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/11062b_6e5a6b66eceb40b0b5fc73232f9825b9~mv2.jpg/v1/fill/w_50,h_33,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_6e5a6b66eceb40b0b5fc73232f9825b9~mv2.jpg | lady online
+https://static.wixstatic.com/media/11062b_dad013baa6f84518afec3048c170cfce~mv2.jpeg/v1/fill/w_50,h_33,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_dad013baa6f84518afec3048c170cfce~mv2.jpeg | 
+https://static.wixstatic.com/media/11062b_10ee672f8da54ee3a50be7603443c136~mv2.jpeg/v1/fill/w_50,h_30,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_10ee672f8da54ee3a50be7603443c136~mv2.jpeg | Priya photo 
+https://static.wixstatic.com/media/11062b_bac0fbb7034a4aaa95f3bd01b8b205b4~mv2.jpg/v1/fill/w_50,h_33,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_bac0fbb7034a4aaa95f3bd01b8b205b4~mv2.jpg | mum and baby
+https://static.wixstatic.com/media/11062b_6ce73aa096354b84b3fdf99c823b7965~mv2.jpg/v1/fill/w_50,h_34,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_6ce73aa096354b84b3fdf99c823b7965~mv2.jpg | 
+https://static.wixstatic.com/media/dddd96_522b2b13b2f64a3c9ab6019aff6a450e~mv2.jpg/v1/fit/w_800,h_600,al_c,q_90/file.webp | Meditation 

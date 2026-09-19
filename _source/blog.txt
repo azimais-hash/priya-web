@@ -1,0 +1,48 @@
+URL /blog
+TITLE Mindful Living Blog | Life Coaching & Tips | Mindfully Priya
+DESC Explore our blog for life coaching, inspiration, tips, and insights on mindful living. Discover resources for women and mums seeking balance and well-being in UK.
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+li: All Posts
+a: [All Posts](https://www.mindfullypriya.com/blog)
+li: Mindful Parenting
+a: [Mindful Parenting](https://www.mindfullypriya.com/blog/categories/mindful-parenting)
+h1: All Posts
+h2: How Mindfulness Can Transform Your Life: Discover the Mindful Living Benefits
+a: [Mindfully Priya](https://www.mindfullypriya.com/profile/hello/profile)
+span: 4 min read
+h2: Stress Management for Mums: Practical Tips
+a: [Mindfully Priya](https://www.mindfullypriya.com/profile/hello/profile)
+span: 3 min read
+h2: The Journey of Priya Coaching Services
+a: [Mindfully Priya](https://www.mindfullypriya.com/profile/hello/profile)
+span: 4 min read
+h2: Calm Techniques for Mums: Ways for Mums to Find Calm and Balance
+a: [Mindfully Priya](https://www.mindfullypriya.com/profile/hello/profile)
+span: 4 min read
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/dddd96_a42a5681132b4193a21d2e5a0099ecb6~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/dddd96_a42a5681132b4193a21d2e5a0099ecb6~mv2.webp | How Mindfulness Can Transform Your Life: Discover the Mindful Living Benefits
+https://static.wixstatic.com/media/dddd96_a42a5681132b4193a21d2e5a0099ecb6~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/dddd96_a42a5681132b4193a21d2e5a0099ecb6~mv2.webp | How Mindfulness Can Transform Your Life: Discover the Mindful Living Benefits
+https://static.wixstatic.com/media/dddd96_c9d0c5cd83b748bfa0174363618969c2~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/dddd96_c9d0c5cd83b748bfa0174363618969c2~mv2.webp | Stress Management for Mums: Practical Tips
+https://static.wixstatic.com/media/dddd96_c9d0c5cd83b748bfa0174363618969c2~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/dddd96_c9d0c5cd83b748bfa0174363618969c2~mv2.webp | Stress Management for Mums: Practical Tips
+https://static.wixstatic.com/media/dddd96_dfb8dc803d05435ca1ff41deb31dc953~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/dddd96_dfb8dc803d05435ca1ff41deb31dc953~mv2.webp | The Journey of Priya Coaching Services
+https://static.wixstatic.com/media/dddd96_dfb8dc803d05435ca1ff41deb31dc953~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/dddd96_dfb8dc803d05435ca1ff41deb31dc953~mv2.webp | The Journey of Priya Coaching Services
+https://static.wixstatic.com/media/dddd96_64bea1c5cbe241b585465c1754938590~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/dddd96_64bea1c5cbe241b585465c1754938590~mv2.webp | Calm Techniques for Mums: Ways for Mums to Find Calm and Balance
+https://static.wixstatic.com/media/dddd96_64bea1c5cbe241b585465c1754938590~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_avif,quality_auto/dddd96_64bea1c5cbe241b585465c1754938590~mv2.webp | Calm Techniques for Mums: Ways for Mums to Find Calm and Balance

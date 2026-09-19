@@ -1,0 +1,54 @@
+URL /event-details/online-mindfully-you-a-calm-space-for-new-mums
+TITLE Online Mindfully You - A Calm Space for New Mums   | Mindfully Priya
+DESC Rediscover yourself. Breathe deeply. Feel supported.
+A mindful, baby-friendly group to help you navigate early motherhood with calm, clarity, and connection.
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+h1: Online Mindfully You - A Calm Space for New Mums
+p: Tue 24th Feb @10.00am  (6 weeks -online)
+span: |
+p: Link to be provided to attendees
+p: Rediscover yourself. Breathe deeply. Feel supported.
+A mindful, baby-friendly group to help you navigate early motherhood with calm, clarity, and connection.
+h2: Time & Location
+p: Tue 24th Feb @10.00am  (6 weeks -online)
+p: Link to be provided to attendees
+h2: Guests
+button: See All
+h2: About the event
+p: Becoming a mum changes everything - your body, your routine, your relationships, your sense of self. But while everyone focuses on the baby, who’s looking after you ?
+p: So much of the overwhelm in motherhood doesn’t come from doing things ‘wrong’, it comes from all the expectations around us. What we’re told things should look like.
+p: What we see on social media.
+p: What we hear from others, from books, from advice coming at us from every direction.
+p: It can start to feel confusing.
+p: Like there’s a right way you’re meant to be parenting, and you’re constantly checking yourself against it.
+button: Show More
+h2: Tickets
+li: Ticket type Booking confirmation More info You’re booked! Thank you for joining Mindfully You: A Calm Space for New Mums. Price £72.00 +£1.80 ticket service fee Quantity 0
+h3: Booking confirmation
+button: More info
+button: 0
+p: Total
+p: £0.00
+button: Checkout
+h2: Share this event
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg | Online Mindfully You - A Calm Space for New Mums  
+https://static.wixstatic.com/media/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg | Online Mindfully You - A Calm Space for New Mums  

@@ -1,0 +1,42 @@
+URL /event-list
+TITLE Discover Mindful Parenting Techniques | UK Courses & Programs with Priya
+DESC Discover upcoming coaching programs, and courses for women in transition, to new mums to midlife. Join today!
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+h1: Upcoming Programmes
+li: Online Mindfully You - A Calm Space for New Mums Tue 24th Feb @10.00am  (6 weeks -online) Link to be provided to attendees More info Book your calm space
+a: [Online Mindfully You - A Calm Space for New Mums](https://www.mindfullypriya.com/event-details/online-mindfully-you-a-calm-space-for-new-mums)
+button: More info
+a: [Book your calm space](https://www.mindfullypriya.com/event-details/online-mindfully-you-a-calm-space-for-new-mums)
+li: Mindfully You - A Calm Space for New Mums  (6 weeks) Starting 20th Feb 2026 : 10am - 11am St Johns Garden Room More info Book your calm space
+a: [Mindfully You - A Calm Space for New Mums  (6 weeks)](https://www.mindfullypriya.com/event-details/mindfully-you-a-calm-space-for-new-mums-6-weeks)
+button: More info
+a: [Book your calm space](https://www.mindfullypriya.com/event-details/mindfully-you-a-calm-space-for-new-mums-6-weeks)
+li: Rooted & Rising A Healing Journey for British-Born South Asian Mothers Starting in May 2026 Virtual and in person programme More info Register interest
+a: [Rooted & Rising A Healing Journey for British-Born South Asian Mothers](https://www.mindfullypriya.com/event-details/rooted-rising-a-healing-journey-for-british-born-south-asian-mothers)
+button: More info
+a: [Register interest](https://www.mindfullypriya.com/event-details/rooted-rising-a-healing-journey-for-british-born-south-asian-mothers)
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg | Online Mindfully You - A Calm Space for New Mums  
+https://static.wixstatic.com/media/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg | Online Mindfully You - A Calm Space for New Mums  
+https://static.wixstatic.com/media/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg | Mindfully You - A Calm Space for New Mums  (6 weeks)
+https://static.wixstatic.com/media/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f59e733be2ad4b32b1de8eaeaf8f1d1c.jpg | Mindfully You - A Calm Space for New Mums  (6 weeks)
+https://static.wixstatic.com/media/dddd96_178fe87f671c4346ba833c381ad2d58b~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/dddd96_178fe87f671c4346ba833c381ad2d58b~mv2.jpg | Rooted & Rising A Healing Journey for British-Born South Asian Mothers
+https://static.wixstatic.com/media/dddd96_178fe87f671c4346ba833c381ad2d58b~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/dddd96_178fe87f671c4346ba833c381ad2d58b~mv2.jpg | Rooted & Rising A Healing Journey for British-Born South Asian Mothers

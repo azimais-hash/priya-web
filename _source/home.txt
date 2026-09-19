@@ -1,0 +1,147 @@
+URL /
+TITLE Mindfully Priya Coaching | Life Coaching for Women and Mums Online UK
+DESC Discover Mindfully Priya coaching - expert life coaching for women and mums, online and UK-based. Book your free session today.
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+p: Not a crisis. Not a breakdown. Just space to think
+p: A private reflection for women who have given so much, for so long, that they've lost sight of what they actually want. No judgement. No right answers. A personal written response that helps you reconnect with what's been quietly waiting for your attention.
+p: ​
+a: [Begin The Reconnection - a private self-reflection](https://www.mindfullypriya.com/reconnection)
+p: Mindful Transition Coaching for capable women who hold everything together but feel disconnected inside.
+p: ​
+p: Private, rigorous coaching for women -  career, identity, and what comes next...
+a: [Book your complimentary call](https://www.mindfullypriya.com/mindfully-priya-booking)
+h5: Does any of this sound familiar?​
+p: You're good at what you do. You always have been.
+p: But there's a quiet voice underneath the competence lately, one that says: This doesn't feel quite like mine anymore.
+p: You haven't lost the plot. You're not falling apart, and it's not ingratitude.
+p: You've just outgrown something , a role, a way of showing up, a version of yourself you built for a life that no longer fully fits who you are, that brings you joy, purpose, excitement, peace.
+p: The question underneath it all, the one you don't
+p: always say out loud is: Who am I, on the other side of all of this?
+p: You might be feeling...
+li: Successful on paper, but privately questioning everything
+li: Exhausted in a way that sleep doesn't seem to fix
+li: Like you've spent so long being who everyone needed you to be
+li: Pulled between your heritage, your roles, and who you actually want to become
+li: Quietly wondering if this is it, for the next 10 - 20 years?
+p: If you nodded at even one of those, you're in the right place.
+h2: What does coaching actually feel like?
+span: Lets have a conversation
+p: Think about a backpack you've been carrying for years.
+p: At first, you didn't even notice it. You simply adjusted to the weight. Responsibilities, expectations, other people's needs, old beliefs about who you 'should' be, they were added gradually, and you got stronger at carrying them. You kept walking.
+p: But over time, the weight becomes normal. The tight shoulders, the quiet exhaustion, the sense that everything feels heavier than it should, that just becomes your life.
+p: Coaching offers a rare moment to stop walking and gently take the backpack off.
+p: You get to open it. To look inside. To notice what you've been carrying - the guilt, the pressure, the fear of disappointing others, the stories you've been telling yourself.
+p: Some things still belong to you. Some were never yours to carry. And others you're finally ready to put down.
+p: I don't empty the bag for you. I don't decide what stays or goes.
+p: I simply sit beside you while you sort through it.
+p: When you stand up again, the road hasn't changed.
+p: But you feel lighter, and that changes everything.
+h2: Meet Priya
+p: Certified Life Coach & Mindfulness Expert
+p: I know what it's like to hold a great deal together and still feel like something's quietly missing underneath.
+p: I've spent years working with women who are capable and caring, yet privately running on empty. Women who give so much to everyone around them that they've lost the thread back to themselves.
+p: My work is simple. I create a calm, honest space, and I sit with you while you find your way back.
+p: ​ ​
+p: ​
+a: [Read More](https://www.mindfullypriya.com/mindfully-priya-coaching)
+h5: A different kind of thinking partner.
+p: I'm an ICF-accredited coach , trained through IPEC, one of the world's leading coach-training institute s in Energy Leadership and Transition Dynamics . I'm also a certified mindfulness practitioner through the British Mindfulness Institute.
+p: What that means in practice: I bring together three distinct disciplines so that whatever is underneath the surface, we have the tools to reach it. Not just a conversation, a structured, intelligent, deeply human process.
+p: Including access to the Energy Leadership Index - a research-backed attitudinal assessment recommended by Forbes, and available only through IPEC-certified coaches. The ELI isn’t just about understanding your energy; it’s about using that insight to make tangible, positive changes in your life.
+p: Awareness is the cornerstone of all change . By understanding how you energetically show up in your life, you understand how you show up, and shift what no longer serves you."
+p: ​
+p: The ELI isn’t just another assessment, it’s a powerful tool that provides the clarity and insight needed to create the foundation for the change you seek. Whether you want to reduce stress, live more authentically, or feel more in control of your path, the ELI can guide you toward a more fulfilling, empowered life.
+p: "I knew what to do but I just couldn't stay consistent. Priya helped me understand the deeper patterns underneath my burnout, where I lost myself. Her blend of mindfulness and gentle coaching questions helped me reconnect with what truly nourishes me. I've found calm, energy, and purpose again." Michelle, a working mum in her 40s
+a: [Chat Now](https://www.mindfullypriya.com/free-coaching)
+h5: If any of this sounds familiar, you don't have to figure it out alone.
+p: So many of the women I work with waited a long time before reaching out. They weren't sure it was 'bad enough.' They thought they should be able to manage.
+p: You don't have to have it all worked out to get in touch. You just have to feel, somewhere quietly, that something needs to change.
+p: Let's start with a conversation. Relaxed, private, and completely without pressure.
+p: "Over the years, I've had the privilege of working with hundreds of women at exactly this kind of crossroads. Here's what some of them have shared."
+p: Testimonials
+p: "For years I felt invisible constantly doubting myself, people-pleasing, and feeling trapped in fear and shame. Working with Priya felt like finally being seen. Her calm, compassionate presence helped me unravel years of self-doubt and rebuild trust in myself. I’m learning to make decisions from self-love, not fear and for the first time, I actually believe in my own voice."
+p: Reconnecting with Self & Confidence (Anjali  Entrepreneur, 20s)
+p: "I knew what to do but I just couldn’t stay consistent. Priya helped me understand the deeper patterns underneath my burnout and why I kept losing motivation. Her mix of mindfulness and gentle coaching questions helped me reconnect with what truly nourishes me. I’ve found calm, energy, and purpose again
+p: Overcoming Burnout & Rediscovering Joy (Becky Working Mum, 40s)
+p: "I felt completely lost trying to juggle motherhood, work, and who I used to be. Through Priya’s coaching, I realised I didn’t need to ‘go back’ to who I was , I’m becoming someone new. The reflection tools she shared between sessions helped me feel prepared, confident, and emotionally grounded as I stepped into work again."
+p: Returning to Work with Clarity & Balance (Danielle, Mum of Two, Returning to Work)
+p: "Priya has a special way of making everyone feel heard and valued. Her calm, non-judgemental style allows real honesty the kind that leads to transformation. She helped me unlearn years of people-pleasing and fear of judgement. Her blend of mindfulness and coaching made me feel safe to be honest. I found strength I didn’t know I had and clarity about the kind of woman and mother I want to be."
+p: Letting go of people pleasing  (Manisha 30's)
+h2: What I Specialise In
+p: Reconnecting with Identity & Purpose
+p: reconnect with who you truly are, realign with your values, and rediscover what lights you up again.
+p: Building Confidence &
+p: Self-Trust
+p: breaking free from people-pleasing, perfectionism, and self-doubt
+p: Burnout Recovery & Emotional Balance
+p: rebuild your energy from the inside out, so peace becomes your new normal
+p: Energy Leadership & Mindful Living
+p: By understanding your unique Core Dynamics™, you’ll learn how to shift your energy consciously, respond rather than react, and create calm even when life feels chaotic.
+p: Navigate Transitions
+p: such as career changes, midlife, seperation or motherhood or any identity shifts
+p: Accreditations and Certifications
+span: I am so happy to have attended the Mindfulness for Mothers course last month, it has completely changed my view on parenting, how I relate to my children and deal with typical daily stress from being a mother. The course is very well organised and presented, and Priya provides with many resources and tools. Its helped me focus on myself to relieve the burnout and daily overwhelm, life feels more relaxed and calm.
+p: - Marion Jornet
+span: Priya is very approachable, thoughtful and caring and checks up on you throughout the course, even in between sessions. I couldn't recommend this more. If you want to understand yourself, find more patience, your true values and  learn how to handle emotions in the family, this is the programme for you!
+p: - Meena Shah
+span: Thank you Priya for a such a brilliant and supportive programme. It has already made such a difference to my parenting and own wellbeing. The course was packed full of information and tools, so lots to think about as well as practical and immediate resources to use with my family. I would absolutely recommend this course to other parents. Priya is really fab!
+p: - Kate Nutt
+h2: How Mindfulness Can Transform Your Life: Discover the Mindful Living Benefits
+a: [Mindfully Priya](https://www.mindfullypriya.com/profile/hello/profile)
+span: 4 min read
+h2: Stress Management for Mums: Practical Tips
+a: [Mindfully Priya](https://www.mindfullypriya.com/profile/hello/profile)
+span: 3 min read
+h2: The Journey of Priya Coaching Services
+a: [Mindfully Priya](https://www.mindfullypriya.com/profile/hello/profile)
+span: 4 min read
+h2: Frequently asked questions
+h3: What is life coaching and how can it help me?
+p: Life coaching offers a supportive non-judgmental, forward-focused space to explore where you are, what feels out of balance, and what you truly want next.
+p: At Mindfully Priya , I blend mindfulness and professional coaching to help you reconnect with your values, shift unhelpful patterns, and create meaningful, lasting change - in your life, work, and relationships.
+h3: Who is your coaching and wellbeing work for?
+h3: What’s the best way to book a free session?
+h3: Can I work with you online if I’m not in London or the UK?
+h3: What happens in a coaching session with you?
+h3: How long does coaching usually take?
+h3: What’s the difference between therapy and life coaching?
+h3: How is your coaching approach different from other life coaching?
+h3: What kinds of programmes and workshops do you offer?
+h3: How can my organisation or team work with you?
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/dddd96_30adefd2606741598ba1f915936ffa58~mv2.jpg/v1/fill/w_123,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/dddd96_30adefd2606741598ba1f915936ffa58~mv2.jpg | feeling of freedom
+https://static.wixstatic.com/media/dddd96_de3d8ce8a00549059705eeab6cc4e05b~mv2.jpg/v1/fill/w_264,h_239,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_de3d8ce8a00549059705eeab6cc4e05b~mv2.jpg | 
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/fill/w_244,h_77,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | Mindfully Priya life coach logo
+https://static.wixstatic.com/media/dddd96_9ad6d2ba38d34132891d2bf9811f8486~mv2.png/v1/fill/w_486,h_649,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/backpack.png | backpack.png
+https://static.wixstatic.com/media/dddd96_3a4833976c414a61bac8dbd8dbd00393~mv2.jpg/v1/crop/x_120,y_0,w_701,h_941/fill/w_306,h_412,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20181127_193359_314_edited.jpg | photo of mindfully priya
+https://static.wixstatic.com/media/dddd96_bcfa94a77f4042f48ecc34ec29466335~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ICF%20ACC.png | ICF ACC badge
+https://static.wixstatic.com/media/dddd96_82fa2b2f1add416d89a83238d52bbd47~mv2.png/v1/fill/w_150,h_150,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/certified-life-coach-cor-e-transitions-dynamics-spe.png | Certified Transitions Dynamics specialist coach
+https://static.wixstatic.com/media/dddd96_f6efb5f15d0c4048809ec51146bd6b11~mv2.png/v1/fill/w_150,h_150,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ELI%20certification.png | ELI certification
+https://static.wixstatic.com/media/dddd96_d7fbe446d3a544b390611f78bf440946~mv2.png/v1/fill/w_150,h_150,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Trained-To-Teach-_b-badge.png | Trained-To-Teach-.b-badge
+https://static.wixstatic.com/media/dddd96_a2fb63eafefa40b4a3698a22cd810e9f~mv2.png/v1/fill/w_150,h_150,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/connected%20kids%20certification.png | connected kids certification
+https://static.wixstatic.com/media/dddd96_f6eff305056c44f3981a83eef463244c~mv2.png/v1/fill/w_150,h_150,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/British%20mindfulness%20Instagram%20Post.png | British mindfulness Institute logo
+https://static.wixstatic.com/media/dddd96_4f0366137a72446195b2a4c089746d61~mv2.png/v1/fill/w_150,h_150,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IPEC%20CPC%20certification.png | IPEC professional Coach cerification
+https://static.wixstatic.com/media/dddd96_a42a5681132b4193a21d2e5a0099ecb6~mv2.png/v1/fill/w_251,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/dddd96_a42a5681132b4193a21d2e5a0099ecb6~mv2.webp | How Mindfulness Can Transform Your Life: Discover the Mindful Living Benefits
+https://static.wixstatic.com/media/dddd96_a42a5681132b4193a21d2e5a0099ecb6~mv2.png/v1/fill/w_458,h_457,fp_0.50_0.50,q_95,enc_avif,quality_auto/dddd96_a42a5681132b4193a21d2e5a0099ecb6~mv2.webp | How Mindfulness Can Transform Your Life: Discover the Mindful Living Benefits
+https://static.wixstatic.com/media/dddd96_c9d0c5cd83b748bfa0174363618969c2~mv2.png/v1/fill/w_250,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/dddd96_c9d0c5cd83b748bfa0174363618969c2~mv2.webp | Stress Management for Mums: Practical Tips
+https://static.wixstatic.com/media/dddd96_c9d0c5cd83b748bfa0174363618969c2~mv2.png/v1/fill/w_457,h_457,fp_0.50_0.50,q_95,enc_avif,quality_auto/dddd96_c9d0c5cd83b748bfa0174363618969c2~mv2.webp | Stress Management for Mums: Practical Tips
+https://static.wixstatic.com/media/dddd96_dfb8dc803d05435ca1ff41deb31dc953~mv2.png/v1/fill/w_251,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/dddd96_dfb8dc803d05435ca1ff41deb31dc953~mv2.webp | The Journey of Priya Coaching Services
+https://static.wixstatic.com/media/dddd96_dfb8dc803d05435ca1ff41deb31dc953~mv2.png/v1/fill/w_458,h_457,fp_0.50_0.50,q_95,enc_avif,quality_auto/dddd96_dfb8dc803d05435ca1ff41deb31dc953~mv2.webp | The Journey of Priya Coaching Services

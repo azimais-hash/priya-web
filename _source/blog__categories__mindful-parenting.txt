@@ -1,0 +1,34 @@
+URL /blog/categories/mindful-parenting
+TITLE Mindful Parenting
+DESC 
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+li: All Posts
+a: [All Posts](https://www.mindfullypriya.com/blog)
+li: Mindful Parenting
+a: [Mindful Parenting](https://www.mindfullypriya.com/blog/categories/mindful-parenting)
+h1: Mindful Parenting
+h2: How Mindfulness Transformed My Parenting (And How It Can Help You Too)
+a: [Mindful Parenting](https://www.mindfullypriya.com/blog/categories/mindful-parenting)
+a: [priya khan](https://www.mindfullypriya.com/profile/priya-p-khan/profile)
+span: 3 min read
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/dddd96_522b2b13b2f64a3c9ab6019aff6a450e~mv2.jpg/v1/fill/w_333,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/dddd96_522b2b13b2f64a3c9ab6019aff6a450e~mv2.webp | How Mindfulness Transformed My Parenting (And How It Can Help You Too)
+https://static.wixstatic.com/media/dddd96_522b2b13b2f64a3c9ab6019aff6a450e~mv2.jpg/v1/fill/w_454,h_341,fp_0.50_0.50,q_90,enc_avif,quality_auto/dddd96_522b2b13b2f64a3c9ab6019aff6a450e~mv2.webp | How Mindfulness Transformed My Parenting (And How It Can Help You Too)

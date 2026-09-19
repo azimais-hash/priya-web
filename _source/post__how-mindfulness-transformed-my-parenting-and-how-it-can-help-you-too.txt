@@ -1,0 +1,63 @@
+URL /post/how-mindfulness-transformed-my-parenting-and-how-it-can-help-you-too
+TITLE How Mindfulness Transformed My Parenting (And How It Can Help You Too)
+DESC How to bring mindful moments in your home and with your family.
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+li: All Posts
+a: [All Posts](https://www.mindfullypriya.com/blog)
+li: Mindful Parenting
+a: [Mindful Parenting](https://www.mindfullypriya.com/blog/categories/mindful-parenting)
+h1: How Mindfulness Transformed My Parenting (And How It Can Help You Too)
+a: [priya khan](https://www.mindfullypriya.com/profile/priya-p-khan/profile)
+span: Feb 13, 2025
+span: 3 min read
+p: Updated: Mar 8, 2025
+p: I still remember the days when parenting felt like a never-ending to-do list—school runs, meals, tantrums, sibling squabbles, and the constant pressure to get everything "right." With two boys keeping me on my toes, I often found myself reacting instead of responding, feeling overwhelmed rather than present. But discovering mindfulness changed everything.
+p: Mindfulness didn’t magically stop my children from bickering or erase the chaos of family life, but it did transform how I experienced it. Instead of feeling drained and frustrated, I learned how to meet the challenges with more patience, presence, and calm.
+h3: The Power of a Pause
+p: One of the biggest shifts was learning to pause. I used to jump straight into problem-solving mode—whether it was a forgotten PE kit or those damn book days where we needed a costume or a full on meltdown before bedtime, I often felt depleted and had no patience. Now, I take a breath ( not just one but a few long deep slow breaths). That pause gives me a moment to choose my response instead of reacting impulsively - its not easy and takes time and practice but its a great way to also models emotional regulation for my children, showing them that big feelings don’t have to control us and we are all human.
+span: Mindful Moments
+h3: Mindful Activities That Helped Me Stay Grounded
+p: If you're a busy mum juggling a million things, I know the idea of adding mindfulness to your day might feel overwhelming. But it doesn’t have to be time-consuming or complicated. I like to think of them as mindful moments that become a simple easy effective part of your routine.  Here are a few simple practices that helped me, Mindfully Priya , become a calmer, more present parent:
+a: [Mindfully Priya](https://www.mindfullypriya.com)
+h4: 1. The Tea (or Coffee) Ritual
+p: Before, I would gulp down my tea while tidying up or scrolling my phone. Now, I make it a mindfulness moment.   I feel the warmth of the mug, take in the aroma, and savour the first sip. It’s a small act, but it reminds me to slow down and be present—even if just for two minutes. It during this ritual, I started to drink coffee for the first time in my 40's.  Before I was a tea lover, now, its black coffee all the way.
+h4: 2. Five Senses Reset
+p: When the house feels chaotic, I do a quick five-senses check-in:
+li: What can I see?
+li: What can I hear?
+li: What can I feel?
+li: What can I smell?
+li: What can I taste? This grounds me in the present moment and helps me respond to my children with more clarity and patience. Although best done in the garden, than around screaming boys to start with.
+h4: 3. Mindful Breathing With the Kids
+p: When my boys are overwhelmed, instead of saying, "Calm down," we do various mindful breaths together, such as "balloon breath, finger breathing, lion breath" . It turns a tense moment into a connection point.
+h4: 4. Gratitude at Bedtime
+p: Lastly before bed, we share three things we’re grateful for that day. We keep them simple and think about acts of kindness we might have notice as well as appreciation of the simplest of things. It helps us end even the hardest days to focus on the good and also brings connection and a happier more calm way to fall asleep.
+h2: The Real Gift of Mindfulness in Parenting
+p: Mindfulness hasn’t made me a "perfect" mum (if such a thing exists), but it has made me a more present one. I still have stressful days, but I recover faster. I still get frustrated, but I can recognise it and shift my energy before it spills over.
+p: And, most importantly, I’m showing my boys that emotions are okay, that self-care matters, and that being present is the greatest gift we can give to ourselves and each other.
+p: If you’re a mum feeling overwhelmed, I promise you—just a few mindful moments a day can make a world of difference. Start small, be kind to yourself, and remember: the calm you seek isn’t found in controlling everything but in how you choose to meet the moment.
+p: —
+p: Want to bring more mindfulness into your parenting journey? Let’s connect . I support mums who want to parent with more calm, confidence, and presence. Reach out for a chat—I’d love to support you.
+a: [Let’s connect](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Mindful Parenting
+a: [Mindful Parenting](https://www.mindfullypriya.com/blog/categories/mindful-parenting)
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/dddd96_522b2b13b2f64a3c9ab6019aff6a450e~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/dddd96_522b2b13b2f64a3c9ab6019aff6a450e~mv2.jpg | Mindful Moments

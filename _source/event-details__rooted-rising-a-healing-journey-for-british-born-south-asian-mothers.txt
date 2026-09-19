@@ -1,0 +1,47 @@
+URL /event-details/rooted-rising-a-healing-journey-for-british-born-south-asian-mothers
+TITLE Rooted & Rising A Healing Journey for British-Born South Asian Mothers | Mindfully Priya
+DESC A 6-Week Group Coaching Journey to Heal Generational Guilt, Reclaim Your Voice, and Mother from Wholeness
+
+For South Asian British-born mothers ready to break inherited patterns, release guilt, and rediscover who they truly are beyond roles, pressure, and expectations.
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+h1: Rooted & Rising A Healing Journey for British-Born South Asian Mothers
+p: Starting in May 2026
+span: |
+p: Virtual and in person programme
+p: A 6-Week Group Coaching Journey to Heal Generational Guilt, Reclaim Your Voice, and Mother from Wholeness
+
+For South Asian British-born mothers ready to break inherited patterns, release guilt, and rediscover who they truly are beyond roles, pressure, and expectations.
+h2: Time & Location
+p: Starting in May 2026
+p: Virtual and in person programme
+h2: About the event
+p: Introducing: Rooted & Rising
+p: A 6-week guided coaching journey for South Asian British-born mothers who are ready to:
+li: Let go of guilt passed down through generations
+li: Understand and break cultural emotional patterns
+li: Reconnect to their true identity
+li: Set boundaries without shame
+button: Show More
+button: RSVP
+h2: Share this event
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/dddd96_178fe87f671c4346ba833c381ad2d58b~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/dddd96_178fe87f671c4346ba833c381ad2d58b~mv2.jpg | Rooted & Rising A Healing Journey for British-Born South Asian Mothers
+https://static.wixstatic.com/media/dddd96_178fe87f671c4346ba833c381ad2d58b~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/dddd96_178fe87f671c4346ba833c381ad2d58b~mv2.jpg | Rooted & Rising A Healing Journey for British-Born South Asian Mothers

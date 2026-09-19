@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:image" content="{{og_image}}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Mindfully Priya">
+<link rel="icon" href="/images/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;1,9..144,300&family=Figtree:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/site.css">
+</head>
+<body class="{{body_class}}">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="logo" href="/"><img src="/images/2174360aba.png" alt="Mindfully Priya, life coach" width="160" height="53"></a>
+    <nav aria-label="Main">
+      <ul class="nav-list">
+{{nav}}
+      </ul>
+      <details class="menu">
+        <summary>Menu</summary>
+        <ul>
+{{nav}}
+        </ul>
+      </details>
+    </nav>
+    <a class="btn btn-accent header-cta" href="/free-coaching">Free session</a>
+  </div>
+</header>
+<main id="main">
+{{main}}
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-mark">Mindfully Priya</p>
+      <p>Mindful transition coaching for women.<br>South London, UK, and online.</p>
+    </div>
+    <div>
+      <p class="eyebrow">Get in touch</p>
+      <p><a href="mailto:hello@mindfullypriya.com">hello@mindfullypriya.com</a><br><a href="tel:+447957325503">07957 325503</a></p>
+    </div>
+    <div>
+      <p class="eyebrow">Explore</p>
+      <p><a href="/reconnection">The Reconnection</a><br><a href="/mindfully-priya-booking">Book a session</a><br><a href="/blog">Journal</a></p>
+    </div>
+    <div>
+      <p class="eyebrow">Follow</p>
+      <p><a href="https://www.instagram.com/mindfully_priya/">Instagram</a><br><a href="https://www.linkedin.com/in/priya-khan-lc/">LinkedIn</a><br><a href="https://www.facebook.com/littlecrystalminds/">Facebook</a></p>
+    </div>
+  </div>
+  <div class="wrap footer-base"><p>&copy; {{year}} Mindfully Priya. Coaching is not therapy or medical treatment.</p></div>
+</footer>
+</body>
+</html>

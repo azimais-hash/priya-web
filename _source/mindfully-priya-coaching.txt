@@ -1,0 +1,45 @@
+URL /mindfully-priya-coaching
+TITLE Mindful Life Coaching for Women & Mothers in UK | Mindfully Priya
+DESC Discover the power of mindful life coaching with Priya. Navigate life's challenges, embrace mindfulness, and achieve your goals. Mindfulness paired with iPEC’s coaching framework. Personalized support all around UK.
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+h1: Empower Your Life with MindfullyPriya
+p: Supporting Women and Mothers to Find Balance, Empowerment, and Fulfilment
+p: ​
+p: As a mindful life coach , I am passionate about supporting women and mothers on their journey to find balance, empowerment, and fulfilment. Through personalized coaching sessions, I help my clients navigate life’s challenges, embrace mindfulness, and achieve their goals with clarity and confidence. My approach is rooted in promoting holistic well-being and fostering sustainable, meaningful lifestyle changes that empower women to live authentically and with purpose.
+a: [mindful life coach](https://www.mindfullypriya.com/one-to-one-coaching-programs)
+p: ​
+p: I’m also a proud mother of two wonderful boys. Since becoming a parent, I transitioned from the corporate world to focus on helping women and mothers rediscover their sense of self. Inspired by my own experiences of balancing cultural expectations, motherhood, and personal growth, I created Mindfully Priyia—a space dedicated to empowering women to lead mindful, purposeful lives grounded in confidence, connection, inner peace, and joy.
+p: ​
+a: [Start Your Journey](https://www.mindfullypriya.com/mindfully-priya-booking)
+h2: Discover the Power of Mindful Life Coaching
+p: At Mindfully Priya , we combine the transformative power of mindfulness with iPEC’s Energy Leadership™ coaching to guide women and mothers through life’s transitions. Whether you’re navigating the challenges of motherhood, striving for better work-life balance, considering a career change, or battling feelings of overwhelm and burnout, our unique approach provides the tools and support you need to thrive.
+a: [Mindfully Priya](https://www.mindfullypriya.com)
+p: Mindfulness paired with iPEC’s coaching framework, you’ll uncover how your energy and mindset influence every aspect of your life, empowering you to make choices that align with your values and aspirations .
+p: ​
+p: This journey is about more than just overcoming struggles—it’s about
+li: reclaiming your confidence,
+li: finding purpose, and
+li: transforming into the best version of yourself.
+p: Whether you’re a mother seeking harmony at home, a professional redefining your career , or a woman seeking clarity amidst life’s chaos, our holistic coaching nurtures the mind, body, and spirit, helping you lead a mindful, intentional, and fulfilling life.
+a: [Lets transform together](https://www.mindfullypriya.com/mindfully-priya-booking)
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/dddd96_828b0818849641dd8c81d8f066146ec7~mv2.jpg/v1/crop/x_0,y_0,w_588,h_877/fill/w_342,h_510,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/AR-D02677_0523_edited_edited.jpg | family time
+https://static.wixstatic.com/media/dddd96_b00f4f1f048543a89040ebd73184e388~mv2.jpg/v1/crop/x_497,y_0,w_925,h_1380/fill/w_342,h_510,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Reflecting%20in%20the%20Meadow_edited_edited_j.jpg | Reflecting in the Meadow_edited_edited.j

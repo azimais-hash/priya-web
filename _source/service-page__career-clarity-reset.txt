@@ -1,0 +1,90 @@
+URL /service-page/career-clarity-reset
+TITLE New Mum Coaching Program | Mindful Journey | Mindfully Priya
+DESC Embrace motherhood mindfully with our 6-week program for new mums in UK. Gain confidence to navigate postpartum emotions and connect with your new identity.
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+button: Book Now
+li: Home
+a: [Home](https://www.mindfullypriya.com)
+li: Service list
+a: [Service list](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Career Clarity Reset
+p: Find your direction with confidence and calm
+span: 1 hr 1 h
+span: 1 hr
+span: 1 h
+span: Online calls
+button: Book Now
+h2: Service Description
+p: Are you feeling lost in your career… even though on the outside you look like you're doing “fine”?
+
+Maybe you're…
+Questioning your direction
+Successful on paper but emotionally unfulfilled
+Returning to work or considering a career change
+Recovering from burnout or redundancy
+Craving meaning, confidence and clarity, not just another job
+You don't need more pressure or advice.
+
+You need space to reconnect with yourself and reset your direction.
+This 6-week coaching journey supports women at any stage of life to find clarity, confidence and direction, without burnout, people-pleasing or overwhelm.
+
+This is not traditional career coaching focused only on CVs or productivity.
+
+This is deep identity work combined with practical coaching, helping you understand:
+
+Who you are now
+What truly matters to you
+What’s blocking your confidence
+What direction fits your energy, values and life stage
+
+So that you can move forward feeling empowered - not overwhelmed.
+
+This coaching journey will help you:
+
+✅ Find clarity on your next career steps
+✅ Rebuild confidence and self-trust
+✅ Release people-pleasing and fear-driven decisions
+✅ Regulate anxiety and overwhelm around work
+✅ Reconnect to your strengths, purpose and values
+✅ Create a career direction that supports your emotional wellbeing
+
+What’s included
+
+✨ 6 x Weekly 75-minute 1:1 coaching sessions (online)
+✨ Career Identity & Values workbook
+✨ Guided mindfulness recordings for clarity and calm
+✨ WhatsApp support between sessions
+✨ Personalised career direction map
+
+My approach
+
+I’m an ACC ICF-accredited Mindfulness & Career Coach, trained in Energy Leadership coaching (iPECM) and mindful practices.
+
+This means our work together focuses not only on goals… but on:
+
+Emotional safety
+Nervous-system regulation
+Identity transformation
+Confidence and empowerment
+
+True career clarity comes when you feel calm, connected, and courageous, not rushed or pressurised.
+h2: Contact Details
+p: 07957325503
+p: hello@mindfullypriya.com
+p: South London, UK
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo

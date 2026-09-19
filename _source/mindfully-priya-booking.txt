@@ -1,0 +1,48 @@
+URL /mindfully-priya-booking
+TITLE Book Your Mindful/life Coaching Session in UK | Mindfully Priya
+DESC Schedule your mindful coaching session with Priya. Life coaching for women and mums in UK. Book online today and begin your journey to a more balanced and fulfilling life.
+
+span: top of page
+li: Home
+li: Free session
+li: 1:1 Coaching
+li: Corporate
+li: Programmes Booking
+a: [Booking](https://www.mindfullypriya.com/mindfully-priya-booking)
+li: Blog
+li: Shop
+li: More
+button: Log In
+h1: You've built a life that looks right.  So why does it feel like it no longer fits?
+h1: The Best of You
+li: Home
+a: [Home](https://www.mindfullypriya.com)
+li: Services
+span: Service Information
+li: Free 30 min session This is your invitation to pause, breathe, and reconnect. 30 min Request to Book
+h2: Free 30 min session
+a: [Request to Book](https://www.mindfullypriya.com/booking-calendar/free-30-min-session)
+li: 1:1 Clarity Coaching Session Unlock breakthrough insights and find your path forward. 1 hr 98 British pounds £98 Book Now
+h2: 1:1 Clarity Coaching Session
+a: [Book Now](https://www.mindfullypriya.com/booking-calendar/1-1-clarity-coaching-session)
+li: 1:1 coaching package (9 sessions) For women ready to create lasting change, from the inside out 1 hr More Info
+h2: 1:1 coaching package (9 sessions)
+a: [More Info](https://www.mindfullypriya.com/service-page/1-1-coaching-package-9-sessions)
+li: Career Clarity Reset Find your direction with confidence and calm 1 hr Book Now
+h2: Career Clarity Reset
+a: [Book Now](https://www.mindfullypriya.com/booking-calendar/career-clarity-reset)
+li: Beyond Mum: Becoming Mindfully Me Again Reclaim your identity, release the guilt, and reconnect with the woman you were always meant to be. 1 hr Book Now
+h2: Beyond Mum: Becoming Mindfully Me Again
+a: [Book Now](https://www.mindfullypriya.com/booking-calendar/beyond-mum-becoming-mindfully-me-again)
+span: bottom of page
+
+IMAGES
+https://static.wixstatic.com/media/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png/v1/crop/x_20,y_0,w_342,h_116/fill/w_294,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dddd96_2174360aba4f4809b726609bb9dbb6f2~mv2.png | logo
+https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png | Facebook
+https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png | Instagram
+https://static.wixstatic.com/media/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_9e78da3320da497ab23ce28d738d388a~mv2.png | LinkedIn
+https://static.wixstatic.com/media/11062b_6e5a6b66eceb40b0b5fc73232f9825b9~mv2.jpg/v1/fill/w_50,h_33,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_6e5a6b66eceb40b0b5fc73232f9825b9~mv2.jpg | lady online
+https://static.wixstatic.com/media/11062b_dad013baa6f84518afec3048c170cfce~mv2.jpeg/v1/fill/w_50,h_33,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_dad013baa6f84518afec3048c170cfce~mv2.jpeg | 
+https://static.wixstatic.com/media/11062b_10ee672f8da54ee3a50be7603443c136~mv2.jpeg/v1/fill/w_50,h_30,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_10ee672f8da54ee3a50be7603443c136~mv2.jpeg | Priya photo 
+https://static.wixstatic.com/media/11062b_bac0fbb7034a4aaa95f3bd01b8b205b4~mv2.jpg/v1/fill/w_50,h_33,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_bac0fbb7034a4aaa95f3bd01b8b205b4~mv2.jpg | mum and baby
+https://static.wixstatic.com/media/11062b_6ce73aa096354b84b3fdf99c823b7965~mv2.jpg/v1/fill/w_50,h_34,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_6ce73aa096354b84b3fdf99c823b7965~mv2.jpg | 
