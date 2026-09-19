@@ -6,6 +6,7 @@ image: 30adefd260
 ---
 <section class="home-hero">
   <img class="hero-bg" src="/images/30adefd260.jpg" alt="A woman in a red coat standing in an autumn forest, arms open" fetchpriority="high">
+  <canvas class="leaves" aria-hidden="true"></canvas>
   <img class="finalist" src="/images/de3d8ce8a0.jpg" alt="Millennial Life Coaches 2026 Coach of the Year finalist">
   <div class="wrap">
     <p class="eyebrow">Mindful transition coaching</p>
@@ -42,6 +43,20 @@ image: 30adefd260
         <li>Quietly wondering <strong>if this is it</strong>, for the next 10 - 20 years?</li>
       </ul>
       <p>If you nodded at even one of those, you're in the right place.</p>
+    </div>
+  </div>
+</section>
+
+<section class="band band-sand breath-band" style="margin-block:0">
+  <div class="wrap breath-grid">
+    <div>
+      <p class="eyebrow">A moment for you</p>
+      <h2>Before anything else, one slow breath.</h2>
+      <p>In for four. Out for six. Let the circle set the pace.</p>
+    </div>
+    <div class="breath" role="img" aria-label="A circle that slowly grows and shrinks to pace your breathing">
+      <span class="breath-ring r3"></span><span class="breath-ring r2"></span><span class="breath-ring r1"></span>
+      <span class="breath-core"><span class="breath-label">Breathe in</span><span class="breath-count"></span></span>
     </div>
   </div>
 </section>

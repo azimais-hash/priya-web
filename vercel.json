@@ -4,5 +4,16 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "buildCommand": "",
-  "installCommand": ""
+  "installCommand": "",
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex"
+        }
+      ]
+    }
+  ]
 }

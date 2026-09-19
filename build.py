@@ -146,7 +146,8 @@ def main():
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         open(dest, 'w', encoding='utf-8').write(out)
 
-    shutil.copy(os.path.join(ROOT, 'assets', 'site.css'), os.path.join(PUBLIC, 'site.css'))
+    for asset in ('site.css', 'site.js'):
+        shutil.copy(os.path.join(ROOT, 'assets', asset), os.path.join(PUBLIC, asset))
 
     urls = sorted(BASE_URL + ('' if p['url'] == '/' else p['url']) for p in pages if p['meta'].get('noindex') != 'true')
     with open(os.path.join(PUBLIC, 'sitemap.xml'), 'w') as fh:
