@@ -1,6 +1,6 @@
 ---
-title: Mindfully Priya Coaching | Life Coaching for Women and Mums Online UK
-description: Discover Mindfully Priya coaching - expert life coaching for women and mums, online and UK-based. Book your free session today.
+title: Midlife Transition Coaching for Women | Mindfully Priya
+description: Private transition coaching for experienced women at a midlife crossroads in work or life. UK-based and online. Book a complimentary call with Priya Khan.
 layout: html
 image: 30adefd260
 ---
@@ -11,11 +11,10 @@ image: 30adefd260
   <div class="wrap">
     <p class="eyebrow">Mindful transition coaching</p>
     <h1>You've built a life that looks right. So why does it feel like it no longer fits?</h1>
-    <p class="lede">Not a crisis. Not a breakdown. Just space to think.</p>
-    <p class="hero-note">A private reflection for women who have given so much, for so long, that they've lost sight of what they actually want. No judgement. No right answers. A personal written response that helps you reconnect with what's been quietly waiting for your attention.</p>
+    <p class="lede">Private transition coaching for experienced women at a significant midlife crossroads. Not a crisis. Not a breakdown. Space to think properly, before a decision that matters.</p>
     <div class="actions">
-      <a class="btn btn-accent" href="/mindfully-priya-booking">Book your complimentary call</a>
-      <a class="btn" href="/reconnection">Begin The Reconnection - a private self-reflection</a>
+      <a class="btn btn-accent" href="/mindfully-priya-booking">Book a complimentary call</a>
+      <a class="btn" href="/reclamation">The Reclamation Programme</a>
     </div>
   </div>
 </section>
@@ -23,9 +22,9 @@ image: 30adefd260
 <section class="section">
   <div class="wrap intro-grid">
     <div>
-      <p class="eyebrow">For capable women</p>
-      <p class="big">Mindful Transition Coaching for capable women who hold everything together but feel disconnected inside.</p>
-      <p>Private, rigorous coaching for women - career, identity, and what comes next.</p>
+      <p class="eyebrow">Who this is for</p>
+      <p class="big">You know something needs to change, but what you have built is too valuable to change carelessly.</p>
+      <p>Private coaching for experienced women navigating a significant midlife career, identity or life transition. Senior, established, still performing well, and quietly at a crossroads.</p>
     </div>
     <div>
       <h2>Does any of this sound familiar?</h2>
@@ -36,11 +35,11 @@ image: 30adefd260
       <p>The question underneath it all, the one you don't always say out loud is: <strong>Who am I, on the other side of all of this?</strong></p>
       <p>You might be feeling...</p>
       <ul class="ticks">
-        <li><strong>Successful</strong> on paper, but privately questioning everything</li>
-        <li><strong>Exhausted</strong> in a way that sleep doesn't seem to fix</li>
-        <li>Like you've spent so long being who everyone <strong>needed</strong> you to be</li>
+        <li><strong>Successful</strong> on paper, and privately questioning whether you still want the career you built</li>
+        <li><strong>Exhausted</strong> in a way that sleep and holidays don't seem to fix</li>
+        <li>So good at being who everyone <strong>needed</strong> you to be that you have lost the thread back to yourself</li>
         <li><strong>Pulled</strong> between your heritage, your roles, and who you actually want to become</li>
-        <li>Quietly wondering <strong>if this is it</strong>, for the next 10 - 20 years?</li>
+        <li>Wondering, carefully, <strong>who you are</strong> on the other side of all of this</li>
       </ul>
       <p>If you nodded at even one of those, you're in the right place.</p>
     </div>
@@ -57,6 +56,27 @@ image: 30adefd260
     <div class="breath" role="img" aria-label="A circle that slowly grows and shrinks to pace your breathing">
       <span class="breath-ring r3"></span><span class="breath-ring r2"></span><span class="breath-ring r1"></span>
       <span class="breath-core"><span class="breath-label">Breathe in</span><span class="breath-count"></span></span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap intro-grid">
+    <div>
+      <p class="eyebrow">The work itself</p>
+      <h2>The questions this is for.</h2>
+      <p>Most women arrive with one of these sitting underneath everything else, and nowhere private enough to think it through.</p>
+    </div>
+    <div>
+      <ul class="ticks">
+        <li>Do I still want the career or business I worked so hard to build?</li>
+        <li>Am I genuinely ready for change, or am I simply exhausted?</li>
+        <li>What do I want the next ten or fifteen years to look like?</li>
+        <li>How do I stop organising my life around what everyone else needs from me?</li>
+        <li>How do I change this without destroying the parts of my life that are still good?</li>
+        <li>What is my own judgement saying, underneath duty, fear, habit and expectation?</li>
+      </ul>
+      <div class="actions"><a class="btn-link" href="/reclamation">How the six months work</a></div>
     </div>
   </div>
 </section>
@@ -114,14 +134,14 @@ image: 30adefd260
 <section class="section">
   <div class="wrap">
     <div class="section-head">
-      <h2>What I Specialise In</h2>
+      <h2>What we work on</h2>
     </div>
     <div class="specialisms">
-      <div><h3>Reconnecting with Identity &amp; Purpose</h3><p>Reconnect with who you truly are, realign with your values, and rediscover what lights you up again.</p></div>
-      <div><h3>Building Confidence &amp; Self-Trust</h3><p>Breaking free from people-pleasing, perfectionism, and self-doubt.</p></div>
-      <div><h3>Burnout Recovery &amp; Emotional Balance</h3><p>Rebuild your energy from the inside out, so peace becomes your new normal.</p></div>
-      <div><h3>Energy Leadership &amp; Mindful Living</h3><p>By understanding your unique Core Dynamics&trade;, you'll learn how to shift your energy consciously, respond rather than react, and create calm even when life feels chaotic.</p></div>
-      <div><h3>Navigate Transitions</h3><p>Such as career changes, midlife, separation or motherhood or any identity shifts.</p></div>
+      <div><h3>Deciding what comes next</h3><p>Stay, leave, step up, step sideways, reduce, build or redesign. Thinking it through properly before you act on it.</p></div>
+      <div><h3>Identity and purpose at a crossroads</h3><p>Working out what is genuinely yours and what you inherited from roles, duty and other people's expectations.</p></div>
+      <div><h3>Self-trust and your own judgement</h3><p>Hearing your own view clearly when many other voices are in the room, and learning to act on it.</p></div>
+      <div><h3>Energy Leadership and how you show up</h3><p>By understanding your unique Core Dynamics&trade;, you see how your energy shifts under pressure, and how to respond rather than react.</p></div>
+      <div><h3>Navigating transitions</h3><p>Career change, menopause and professional authority, caring for ageing parents, children becoming independent, cultural and family expectations.</p></div>
     </div>
   </div>
 </section>
@@ -135,10 +155,7 @@ image: 30adefd260
       <figure><p>"I knew what to do but I just couldn't stay consistent. Priya helped me understand the deeper patterns underneath my burnout and why I kept losing motivation. Her mix of mindfulness and gentle coaching questions helped me reconnect with what truly nourishes me. I've found calm, energy, and purpose again."</p><figcaption>Overcoming Burnout &amp; Rediscovering Joy - Becky, Working Mum, 40s</figcaption></figure>
       <figure><p>"I felt completely lost trying to juggle motherhood, work, and who I used to be. Through Priya's coaching, I realised I didn't need to 'go back' to who I was, I'm becoming someone new. The reflection tools she shared between sessions helped me feel prepared, confident, and emotionally grounded as I stepped into work again."</p><figcaption>Returning to Work with Clarity &amp; Balance - Danielle, Mum of Two, Returning to Work</figcaption></figure>
       <figure><p>"Priya has a special way of making everyone feel heard and valued. Her calm, non-judgemental style allows real honesty the kind that leads to transformation. She helped me unlearn years of people-pleasing and fear of judgement. Her blend of mindfulness and coaching made me feel safe to be honest. I found strength I didn't know I had and clarity about the kind of woman and mother I want to be."</p><figcaption>Letting go of people pleasing - Manisha, 30s</figcaption></figure>
-      <figure><p>"I am so happy to have attended the Mindfulness for Mothers course last month, it has completely changed my view on parenting, how I relate to my children and deal with typical daily stress from being a mother. The course is very well organised and presented, and Priya provides with many resources and tools. Its helped me focus on myself to relieve the burnout and daily overwhelm, life feels more relaxed and calm."</p><figcaption>Marion Jornet</figcaption></figure>
-      <figure><p>"Priya is very approachable, thoughtful and caring and checks up on you throughout the course, even in between sessions. I couldn't recommend this more. If you want to understand yourself, find more patience, your true values and learn how to handle emotions in the family, this is the programme for you!"</p><figcaption>Meena Shah</figcaption></figure>
-      <figure><p>"Thank you Priya for a such a brilliant and supportive programme. It has already made such a difference to my parenting and own wellbeing. The course was packed full of information and tools, so lots to think about as well as practical and immediate resources to use with my family. I would absolutely recommend this course to other parents. Priya is really fab!"</p><figcaption>Kate Nutt</figcaption></figure>
-    </div>
+      </div>
   </div>
 </section>
 
@@ -167,7 +184,7 @@ image: 30adefd260
       <p>So many of the women I work with waited a long time before reaching out. They weren't sure it was 'bad enough.' They thought they should be able to manage.</p>
       <p>You don't have to have it all worked out to get in touch. You just have to feel, somewhere quietly, that something needs to change.</p>
       <p>Let's start with a conversation. Relaxed, private, and completely without pressure.</p>
-      <div class="actions"><a class="btn btn-accent" href="/free-coaching">Chat now</a><a class="btn" href="/reconnection">Begin The Reconnection</a></div>
+      <div class="actions"><a class="btn btn-accent" href="/mindfully-priya-booking">Book a complimentary call</a><a class="btn" href="/reclamation">The Reclamation Programme</a></div>
     </div>
   </div>
 </section>
@@ -184,7 +201,7 @@ image: 30adefd260
     <div><p class="eyebrow">Questions</p><h2>Frequently asked questions</h2></div>
     <div class="faq">
       <details><summary>What is life coaching and how can it help me?</summary><p>Life coaching offers a supportive non-judgmental, forward-focused space to explore where you are, what feels out of balance, and what you truly want next.</p><p>At Mindfully Priya, I blend mindfulness and professional coaching to help you reconnect with your values, shift unhelpful patterns, and create meaningful, lasting change - in your life, work, and relationships.</p></details>
-      <details><summary>Who is your coaching and wellbeing work for?</summary><p>I work with women, especially mothers, who want more balance, clarity, and confidence as they move through burnout or life transitions. I also support teams, leaders, communities, and organisations that want to strengthen wellbeing, emotional intelligence, and mindful connection at work.</p></details>
+      <details><summary>Who is your coaching work for?</summary><p>Experienced women, usually somewhere between their mid-forties and late fifties, who have reached a real crossroads in their career or their life and want to think it through privately before they decide. I also work with organisations who want to keep and develop experienced women through exactly those transitions.</p></details>
       <details><summary>What's the best way to book a free session?</summary><p>You can book a free 30-minute session through my <a href="/free-coaching">Free Session page</a> or email me at <a href="mailto:hello@mindfullypriya.com">hello@mindfullypriya.com</a>. It's a relaxed, no-pressure conversation where you can share what's on your mind, explore what you'd like support with, and see whether coaching with me feels like the right fit for you.</p></details>
       <details><summary>Can I work with you online if I'm not in London or the UK?</summary><p>Yes, absolutely. I coach clients all over the world through secure online sessions. Whether you're based in Europe, the US, or Asia, we can easily find a time that works for your time zone.</p><p>Online sessions are just as reflective and transformative as in-person coaching, and allow you to access support wherever you are.</p></details>
       <details><summary>What happens in a coaching session with you?</summary><p>You can expect a calm, supportive space where you're invited to pause, reflect, and speak honestly without judgement. Together, we'll explore what's feeling heavy, unclear, or stuck, and use mindfulness and coaching tools to build awareness and gentle next steps that feel true to you.</p></details>

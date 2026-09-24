@@ -390,3 +390,7 @@ blockquote cite, .quote-by { display: block; margin-top: 1rem; font: 500 .85rem/
 .breath.inhale .r2 { transform: scale(1.14); opacity: .9; transition: transform 4s ease-out .15s; }
 .breath.inhale .r3 { transform: scale(1.28); opacity: .8; transition: transform 4s ease-out .3s; }
 .breath.exhale .breath-ring { transform: scale(.55); transition: transform 6s ease-in; }
+
+/* Diagrams and infographics must not be cropped like photographs */
+.split img.diagram, .gallery img.diagram, img.diagram { aspect-ratio: auto; object-fit: contain; }
+.wide > :is(h2, h3):not(:first-child) { margin-top: 2.5rem; }

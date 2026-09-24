@@ -18,13 +18,11 @@ TEMPLATES = os.path.join(ROOT, 'templates')
 BASE_URL = 'https://www.mindfullypriya.com'
 
 NAV = [
-    ('/one-to-one-coaching-programs', '1:1 Coaching'),
-    ('/general-7', 'Reclamation Programme'),
-    ('/general-6', 'Corporate'),
-    ('/event-list', 'Programmes'),
-    ('/mindfully-priya-coaching', 'About'),
-    ('/blog', 'Journal'),
-    ('/shop', 'Shop'),
+    ('/reclamation', 'The Reclamation Programme'),
+    ('/for-organisations', 'For Organisations'),
+    ('/south-asian-midlife', 'South Asian Midlife'),
+    ('/mindfully-priya-coaching', 'About Priya'),
+    ('/blog', 'Insights'),
 ]
 
 

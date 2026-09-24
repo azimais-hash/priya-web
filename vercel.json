@@ -15,5 +15,17 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/general-7",
+      "destination": "/reclamation",
+      "permanent": true
+    },
+    {
+      "source": "/general-6",
+      "destination": "/for-organisations",
+      "permanent": true
+    }
   ]
 }
