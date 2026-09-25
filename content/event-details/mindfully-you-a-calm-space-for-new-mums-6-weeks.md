@@ -11,10 +11,9 @@ image_alt: Mindfully You - A Calm Space for New Mums (6 weeks)
 <ul class="facts">
 <li><span>Time</span>Starting 20th Feb 2026 : 10am - 11am</li>
 <li><span>Location</span>St Johns Garden Room, Upper Selsdon Rd, South Croydon CR2 8DD, UK</li>
-<li><span>Price</span>£72.00 +£1.80 ticket service fee</li>
 </ul>
 
-<div class="actions"><a class="btn btn-accent" href="https://www.mindfullypriya.com/event-details/mindfully-you-a-calm-space-for-new-mums-6-weeks">Book your calm space</a></div>
+<div class="actions"><a class="btn btn-accent" href="{{LINK:FORM_PROGRAMME}}">Enquire about a place</a></div>
 
 ## About the event
 
@@ -66,4 +65,4 @@ And you can meet motherhood from a place that feels more grounded and more like 
 </ul>
 </section>
 
-<div class="actions"><a class="btn" href="https://www.mindfullypriya.com/event-details/mindfully-you-a-calm-space-for-new-mums-6-weeks">Book your calm space</a><a class="btn-link" href="/event-list">See other events</a></div>
+<div class="actions"><a class="btn" href="{{LINK:FORM_PROGRAMME}}">Enquire about a place</a><a class="btn-link" href="/event-list">See other events</a></div>

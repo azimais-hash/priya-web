@@ -15,7 +15,7 @@ image_alt: A South Asian mother laughing with her young child
 <li><span>Format</span>Virtual and in person programme</li>
 </ul>
 
-<div class="actions"><a class="btn btn-accent" href="https://www.mindfullypriya.com/event-details/rooted-rising-a-healing-journey-for-british-born-south-asian-mothers">Register interest</a></div>
+<div class="actions"><a class="btn btn-accent" href="{{LINK:FORM_PROGRAMME}}">Register your interest</a></div>
 
 ## About the event
 
@@ -39,7 +39,7 @@ All while being seen, supported, and celebrated by women who get it.
 <p class="eyebrow">Beta Round Investment</p>
 <h2>What You'll Receive</h2>
 <p>Register your interest to find out more. Let's heal wounds, let go of people pleasing, quieten the external chatter and take the time to be the best version of yourself.</p>
-<div class="actions"><a class="btn" href="https://www.mindfullypriya.com/event-details/rooted-rising-a-healing-journey-for-british-born-south-asian-mothers">Register interest</a><a class="btn-link" href="/event-list">See other events</a></div>
+<div class="actions"><a class="btn" href="{{LINK:FORM_PROGRAMME}}">Register your interest</a><a class="btn-link" href="/event-list">See other events</a></div>
 </div>
 <div class="gallery" style="padding:0">
 <img src="/images/a108115519.jpg" alt="Rooted and Rising: a 6-week group coaching journey for British-born South Asian mothers" loading="lazy" style="aspect-ratio:4/5;object-fit:contain;background:#fff">

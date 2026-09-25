@@ -26,6 +26,21 @@
       "source": "/general-6",
       "destination": "/for-organisations",
       "permanent": true
+    },
+    {
+      "source": "/shop",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/product-page/mindfulness-affirmation-cards",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/category/all-products",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }

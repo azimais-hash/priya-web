@@ -36,10 +36,9 @@ LINKS = {
     'BOOK_CLARITY': 'https://www.mindfullypriya.com/booking-calendar/1-1-clarity-coaching-session',
     'BOOK_CAREER_RESET': 'https://www.mindfullypriya.com/booking-calendar/career-clarity-reset',
     'BOOK_BEYOND_MUM': 'https://www.mindfullypriya.com/booking-calendar/beyond-mum-becoming-mindfully-me-again',
-    # Payments (Wix Stores today, Stripe payment links later)
-    'BUY_CARDS': 'https://www.mindfullypriya.com/product-page/mindfulness-affirmation-cards',
-    # Forms (Tally)
+    # Forms (Tally). Programme places are taken by enquiry, no payment on the site.
     'FORM_RECONNECTION': 'https://tally.so/r/yPoRo4',
+    'FORM_PROGRAMME': 'mailto:hello@mindfullypriya.com?subject=Programme%20enquiry',
 }
 
 
@@ -162,6 +161,13 @@ def main():
         dest = os.path.join(PUBLIC, p['rel'] + '.html')
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         open(dest, 'w', encoding='utf-8').write(out)
+
+    wanted = {os.path.join(PUBLIC, p['rel'] + '.html') for p in pages}
+    for dirpath, _, files in os.walk(PUBLIC):
+        for f in files:
+            path = os.path.join(dirpath, f)
+            if f.endswith('.html') and path not in wanted:
+                os.remove(path)
 
     for asset in ('site.css', 'site.js'):
         shutil.copy(os.path.join(ROOT, 'assets', asset), os.path.join(PUBLIC, asset))
