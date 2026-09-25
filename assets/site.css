@@ -394,3 +394,7 @@ blockquote cite, .quote-by { display: block; margin-top: 1rem; font: 500 .85rem/
 /* Diagrams and infographics must not be cropped like photographs */
 .split img.diagram, .gallery img.diagram, img.diagram { aspect-ratio: auto; object-fit: contain; }
 .wide > :is(h2, h3):not(:first-child) { margin-top: 2.5rem; }
+
+/* Cal.com inline booking widget */
+.cal-wrap { margin-block: 2.5rem 3rem; }
+.cal-embed { min-height: 620px; width: 100%; overflow: hidden; }

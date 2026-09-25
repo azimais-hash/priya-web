@@ -58,7 +58,7 @@
 </section>
 <div class="prose-wrap">
 <div class="actions" style="margin-top:0;margin-bottom:3rem">
-<a class="btn btn-accent" href="https://www.mindfullypriya.com/booking-calendar/free-discovery-call">Book your free session</a>
+<a class="btn btn-accent" href="https://cal.com/mindfullypriya/30min">Book your free session</a>
 </div>
 
 <p>This is not a sales call - it&rsquo;s a supportive conversation to help you:</p>
@@ -80,8 +80,21 @@
 <p>Use the calendar to book your free 30-minute session at a time that suits you.</p>
 <p>I look forward to meeting you and creating a calm space for your next chapter.</p>
 <div class="actions">
-<a class="btn" href="https://www.mindfullypriya.com/booking-calendar/free-discovery-call">Book your free session</a>
+<a class="btn" href="https://cal.com/mindfullypriya/30min">Book your free session</a>
 </div>
+
+<div class="cal-wrap wide">
+<div id="cal-inline-free" class="cal-embed"></div>
+<noscript><p><a class="btn btn-accent" href="https://cal.com/mindfullypriya/30min">Open the booking calendar</a></p></noscript>
+</div>
+
+<script>
+(function (C, A, L) { var p = function (a, ar) { a.q.push(ar); }; var d = C.document; C.Cal = C.Cal || function () { var cal = C.Cal; var ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; typeof namespace === "string" ? (cal.ns[namespace] = api) && p(api, ar) : p(cal, ar); return; } p(cal, ar); };
+})(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", { origin: "https://cal.com" });
+Cal("inline", { elementOrSelector: "#cal-inline-free", calLink: "mindfullypriya/30min", config: { layout: "month_view" } });
+Cal("ui", { hideEventTypeDetails: false, layout: "month_view" });
+</script>
 </div>
 
 </main>

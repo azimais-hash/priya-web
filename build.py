@@ -30,15 +30,19 @@ NAV = [
 # Wix for Cal.com, Stripe and Tally is one edit rather than thirty.
 # Tokens are written in content as {{LINK:NAME}}.
 LINKS = {
-    # Booking (Wix Bookings today, Cal.com once Priya's account exists)
-    'BOOK_DISCOVERY': 'https://www.mindfullypriya.com/booking-calendar/free-30-min-session',
-    'BOOK_DISCOVERY_CALL': 'https://www.mindfullypriya.com/booking-calendar/free-discovery-call',
-    'BOOK_CLARITY': 'https://www.mindfullypriya.com/booking-calendar/1-1-clarity-coaching-session',
-    'BOOK_CAREER_RESET': 'https://www.mindfullypriya.com/booking-calendar/career-clarity-reset',
-    'BOOK_BEYOND_MUM': 'https://www.mindfullypriya.com/booking-calendar/beyond-mum-becoming-mindfully-me-again',
+    # Booking: Cal.com (hello@mindfullypriya.com). The 30 minute type is the
+    # complimentary call every page routes to; the 15 minute one is a quick chat.
+    'BOOK_DISCOVERY': 'https://cal.com/mindfullypriya/30min',
+    'BOOK_DISCOVERY_CALL': 'https://cal.com/mindfullypriya/30min',
+    'BOOK_SHORT': 'https://cal.com/mindfullypriya/15min',
+    # Paid sessions are arranged on the call and invoiced, so they route to the
+    # same call rather than a checkout.
+    'BOOK_CLARITY': 'https://cal.com/mindfullypriya/30min',
+    'BOOK_CAREER_RESET': 'https://cal.com/mindfullypriya/30min',
+    'BOOK_BEYOND_MUM': 'https://cal.com/mindfullypriya/30min',
     # Forms (Tally). Programme places are taken by enquiry, no payment on the site.
     'FORM_RECONNECTION': 'https://tally.so/r/yPoRo4',
-    'FORM_PROGRAMME': 'mailto:hello@mindfullypriya.com?subject=Programme%20enquiry',
+    'FORM_PROGRAMME': 'https://tally.so/r/yPoRo4',
 }
 
 
