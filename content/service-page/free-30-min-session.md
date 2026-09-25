@@ -18,6 +18,6 @@ image_alt: A woman in a yellow jumper sitting on a sofa with a laptop
 Take the first step towards transformation.
 
 <div class="actions">
-<a class="btn btn-accent" href="https://www.mindfullypriya.com/booking-calendar/free-30-min-session">Book now</a>
+<a class="btn btn-accent" href="{{LINK:BOOK_DISCOVERY}}">Book now</a>
 <a class="btn-link" href="/mindfully-priya-booking">All services</a>
 </div>

@@ -85,6 +85,6 @@ This means our work together focuses not only on goals... but on:
 > True career clarity comes when you feel calm, connected, and courageous, not rushed or pressurised.
 
 <div class="actions">
-<a class="btn btn-accent" href="https://www.mindfullypriya.com/booking-calendar/career-clarity-reset">Book now</a>
+<a class="btn btn-accent" href="{{LINK:BOOK_CAREER_RESET}}">Book now</a>
 <a class="btn-link" href="/mindfully-priya-booking">All services</a>
 </div>

@@ -9,7 +9,7 @@ image_alt: Raked sand and stones in a zen garden
 ---
 
 <div class="actions" style="margin-top:0;margin-bottom:3rem">
-<a class="btn btn-accent" href="https://www.mindfullypriya.com/booking-calendar/free-discovery-call">Book your free session</a>
+<a class="btn btn-accent" href="{{LINK:BOOK_DISCOVERY_CALL}}">Book your free session</a>
 </div>
 
 This is not a sales call - it's a supportive conversation to help you:
@@ -39,5 +39,5 @@ Use the calendar to book your free 30-minute session at a time that suits you.
 I look forward to meeting you and creating a calm space for your next chapter.
 
 <div class="actions">
-<a class="btn" href="https://www.mindfullypriya.com/booking-calendar/free-discovery-call">Book your free session</a>
+<a class="btn" href="{{LINK:BOOK_DISCOVERY_CALL}}">Book your free session</a>
 </div>

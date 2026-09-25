@@ -62,6 +62,6 @@ Because when you feel grounded in who you are, everything else flows more easily
 </section>
 
 <div class="actions">
-<a class="btn btn-accent" href="https://www.mindfullypriya.com/booking-calendar/beyond-mum-becoming-mindfully-me-again">Book now</a>
+<a class="btn btn-accent" href="{{LINK:BOOK_BEYOND_MUM}}">Book now</a>
 <a class="btn-link" href="/mindfully-priya-booking">All services</a>
 </div>

@@ -26,6 +26,23 @@ NAV = [
 ]
 
 
+# Every link that still depends on an external service lives here, so swapping
+# Wix for Cal.com, Stripe and Tally is one edit rather than thirty.
+# Tokens are written in content as {{LINK:NAME}}.
+LINKS = {
+    # Booking (Wix Bookings today, Cal.com once Priya's account exists)
+    'BOOK_DISCOVERY': 'https://www.mindfullypriya.com/booking-calendar/free-30-min-session',
+    'BOOK_DISCOVERY_CALL': 'https://www.mindfullypriya.com/booking-calendar/free-discovery-call',
+    'BOOK_CLARITY': 'https://www.mindfullypriya.com/booking-calendar/1-1-clarity-coaching-session',
+    'BOOK_CAREER_RESET': 'https://www.mindfullypriya.com/booking-calendar/career-clarity-reset',
+    'BOOK_BEYOND_MUM': 'https://www.mindfullypriya.com/booking-calendar/beyond-mum-becoming-mindfully-me-again',
+    # Payments (Wix Stores today, Stripe payment links later)
+    'BUY_CARDS': 'https://www.mindfullypriya.com/product-page/mindfulness-affirmation-cards',
+    # Forms (Tally)
+    'FORM_RECONNECTION': 'https://tally.so/r/yPoRo4',
+}
+
+
 def read_page(path):
     """Split a content file into (front matter dict, markdown body)."""
     text = open(path, encoding='utf-8').read()
@@ -111,6 +128,8 @@ def main():
         m, body = p['meta'], p['body']
         for key, val in blocks.items():
             body = body.replace('{{' + key + '}}', val)
+        for key, val in LINKS.items():
+            body = body.replace('{{LINK:' + key + '}}', val)
         layout = m.get('layout', 'page')
         if layout == 'html':
             main_html = body

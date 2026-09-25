@@ -35,7 +35,7 @@ This is for you if you paused at that first question and felt something.
 ## Let's Get Started
 
 <div class="actions">
-<a class="btn btn-accent" href="https://tally.so/r/yPoRo4">Begin The Reconnection</a>
+<a class="btn btn-accent" href="{{LINK:FORM_RECONNECTION}}">Begin The Reconnection</a>
 </div>
 
 <p style="margin-top:1.25rem">Your responses are private. Only I read them. You'll hear from me within 72 hours.</p>
