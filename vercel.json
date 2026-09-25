@@ -5,17 +5,6 @@
   "trailingSlash": false,
   "buildCommand": "",
   "installCommand": "",
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex"
-        }
-      ]
-    }
-  ],
   "redirects": [
     {
       "source": "/general-7",
