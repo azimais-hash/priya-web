@@ -35,6 +35,21 @@
       "source": "/free-coaching",
       "destination": "/mindfully-priya-booking",
       "permanent": true
+    },
+    {
+      "source": "/event-details/a-mindful-journey-for-new-mums-6-weeks-1",
+      "destination": "/event-list",
+      "permanent": true
+    },
+    {
+      "source": "/event-details/mindfully-you-a-calm-space-for-new-mums-6-weeks",
+      "destination": "/event-list",
+      "permanent": true
+    },
+    {
+      "source": "/event-details/online-mindfully-you-a-calm-space-for-new-mums",
+      "destination": "/event-list",
+      "permanent": true
     }
   ]
 }

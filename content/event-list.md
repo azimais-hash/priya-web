@@ -1,6 +1,6 @@
 ---
 title: Group Programmes | Mindfully Priya
-description: Small group coaching programmes with Priya Khan, for women in transition. New mums, British-born South Asian mothers, in person in South London and online.
+description: Small group coaching programmes with Priya Khan, for women in transition. Run a few times a year, in person in South London and online.
 eyebrow: Programmes
 heading: Group programmes
 lede: Small groups, run a few times a year, alongside the private coaching.
@@ -10,16 +10,6 @@ noindex: true
 ---
 
 <div class="offers">
-<div class="offer">
-<h3><a href="/event-details/online-mindfully-you-a-calm-space-for-new-mums">Online Mindfully You - A Calm Space for New Mums</a></h3>
-<p>Tue 24th Feb @10.00am (6 weeks - online)<span class="meta">Link to be provided to attendees</span></p>
-<a class="btn offer-go" href="/event-details/online-mindfully-you-a-calm-space-for-new-mums">Enquire about a place</a>
-</div>
-<div class="offer">
-<h3><a href="/event-details/mindfully-you-a-calm-space-for-new-mums-6-weeks">Mindfully You - A Calm Space for New Mums (6 weeks)</a></h3>
-<p>Starting 20th Feb 2026 : 10am - 11am<span class="meta">St Johns Garden Room</span></p>
-<a class="btn offer-go" href="/event-details/mindfully-you-a-calm-space-for-new-mums-6-weeks">Enquire about a place</a>
-</div>
 <div class="offer">
 <h3><a href="/event-details/rooted-rising-a-healing-journey-for-british-born-south-asian-mothers">Rooted &amp; Rising, for British-Born South Asian Mothers</a></h3>
 <p>Starting in May 2026<span class="meta">Virtual and in person programme</span></p>
