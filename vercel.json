@@ -50,6 +50,11 @@
       "source": "/event-details/online-mindfully-you-a-calm-space-for-new-mums",
       "destination": "/event-list",
       "permanent": true
+    },
+    {
+      "source": "/service-page/beyond-mum-becoming-mindfully-me-again",
+      "destination": "/one-to-one-coaching-programs",
+      "permanent": true
     }
   ]
 }

@@ -40,7 +40,6 @@ LINKS = {
     # same call rather than a checkout.
     'BOOK_CLARITY': 'https://cal.com/mindfullypriya/30min',
     'BOOK_CAREER_RESET': 'https://cal.com/mindfullypriya/30min',
-    'BOOK_BEYOND_MUM': 'https://cal.com/mindfullypriya/30min',
     # Forms (Tally). Programme places are taken by enquiry, no payment on the site.
     'FORM_RECONNECTION': 'https://tally.so/r/yPoRo4',
     'FORM_PROGRAMME': 'https://tally.so/r/yPoRo4',

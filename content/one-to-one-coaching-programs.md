@@ -43,7 +43,6 @@ Using a blend of mindfulness, energy leadership coaching and reflection, I'll su
 <div class="offer"><div><h3><a href="/service-page/1-1-clarity-coaching-session">1:1 Clarity Coaching Session</a></h3><span class="meta">1 hr &middot; £98</span></div><p>One focused hour on the thing that is taking up the most room.</p><a class="btn-link offer-go" href="{{LINK:BOOK_CLARITY}}">Book now</a></div>
 <div class="offer"><div><h3><a href="/service-page/1-1-coaching-package-9-sessions">1:1 coaching package (9 sessions)</a></h3><span class="meta">1 hr sessions</span></div><p>For women ready to create lasting change, from the inside out</p><a class="btn-link offer-go" href="/service-page/1-1-coaching-package-9-sessions">More info</a></div>
 <div class="offer"><div><h3><a href="/service-page/career-clarity-reset">Career Clarity Reset</a></h3><span class="meta">1 hr sessions</span></div><p>Find your direction with confidence and calm</p><a class="btn-link offer-go" href="{{LINK:BOOK_CAREER_RESET}}">Book now</a></div>
-<div class="offer"><div><h3><a href="/service-page/beyond-mum-becoming-mindfully-me-again">Beyond Mum: Becoming Mindfully Me Again</a></h3><span class="meta">1 hr sessions</span></div><p>Reclaim your identity, put down the guilt, and reconnect with yourself after years of motherhood.</p><a class="btn-link offer-go" href="{{LINK:BOOK_BEYOND_MUM}}">Book now</a></div>
 </div>
 
 <section class="band band-sand" markdown="1">
