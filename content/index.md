@@ -7,11 +7,10 @@ image: 30adefd260
 <section class="home-hero">
   <img class="hero-bg" src="/images/30adefd260.jpg" alt="A woman in a red coat standing in an autumn forest, arms open" fetchpriority="high">
   <canvas class="leaves" aria-hidden="true"></canvas>
-  <img class="finalist" src="/images/de3d8ce8a0.jpg" alt="Millennial Life Coaches 2026 Coach of the Year finalist">
   <div class="wrap">
     <p class="eyebrow">Mindful transition coaching</p>
     <h1>You've built a life that looks right. So why does it feel like it no longer fits?</h1>
-    <p class="lede">Private transition coaching for experienced women at a significant midlife crossroads. Not a crisis. Not a breakdown. Space to think properly, before a decision that matters.</p>
+    <p class="lede">Private transition coaching for experienced women at a significant crossroads. Space to think properly, before a decision that matters.</p>
     <div class="actions">
       <a class="btn btn-accent" href="/mindfully-priya-booking">Book a complimentary call</a>
       <a class="btn" href="/reclamation">The Reclamation Programme</a>
@@ -24,10 +23,11 @@ image: 30adefd260
     <div>
       <p class="eyebrow">Who this is for</p>
       <p class="big">You know something needs to change, but what you have built is too valuable to change carelessly.</p>
-      <p>Private coaching for experienced women navigating a significant midlife career, identity or life transition. Senior, established, still performing well, and quietly at a crossroads.</p>
+      <p>Private coaching for experienced women navigating a significant career, identity or life transition. Most are senior, established and quietly at a crossroads. Some arrive at a different kind of turning point altogether, and the work is the same: somewhere serious to think before you decide.</p>
     </div>
     <div>
       <h2>Does any of this sound familiar?</h2>
+      <p>Not a crisis, and not a breakdown. Something quieter than that.</p>
       <p>You're good at what you do. You always have been.</p>
       <p>But there's a quiet voice underneath the competence lately, one that says: <strong>This doesn't feel quite like mine anymore.</strong></p>
       <p>You haven't lost the plot. You're not falling apart, and it's not ingratitude.</p>
@@ -96,7 +96,21 @@ image: 30adefd260
       <p>I don't empty the bag for you. I don't decide what stays or goes.</p>
       <p>I simply sit beside you while you sort through it.</p>
       <p class="big">When you stand up again, the road hasn't changed. But you feel lighter, and that changes everything.</p>
-      <div class="actions"><a class="btn" href="/free-coaching">Let's have a conversation</a></div>
+      <div class="actions"><a class="btn" href="/mindfully-priya-booking">Book a complimentary call</a></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="band band-sand" style="margin-block:0">
+  <div class="wrap split landscape reverse">
+    <img src="/images/679e86cb88.jpg" alt="A hand writing in a notebook beside a lake">
+    <div>
+      <p class="eyebrow">Start privately</p>
+      <h2>Not ready for a conversation? Begin with The Reconnection.</h2>
+      <p>Twelve questions, about fifteen minutes, entirely private. No scores, no categories, nothing to perform.</p>
+      <p>I read every one and write back to you personally within 72 hours. Not a template, a response to what you actually wrote.</p>
+      <div class="actions"><a class="btn btn-accent" href="/reconnection">Begin The Reconnection</a></div>
     </div>
   </div>
 </section>
@@ -122,12 +136,12 @@ image: 30adefd260
       <h2>A different kind of thinking partner.</h2>
     </div>
     <div>
-      <p>I'm an <strong>ICF-accredited coach</strong>, trained through IPEC, one of the <strong>world's leading coach-training institutes</strong> in Energy Leadership and <strong>Transition Dynamics</strong>. I'm also a <strong>certified mindfulness practitioner</strong> through the British Mindfulness Institute.</p>
-      <p>What that means in practice: I bring together three distinct disciplines so that whatever is underneath the surface, we have the tools to reach it. Not just a conversation, a structured, intelligent, deeply human process.</p>
-      <p>Including access to the <strong>Energy Leadership Index</strong> - a research-backed attitudinal assessment recommended by Forbes, and available only through IPEC-certified coaches. The ELI isn't just about understanding your energy; it's about using that insight to make tangible, positive changes in your life.</p>
-      <p><strong>Awareness is the cornerstone of all change</strong>. By understanding how you energetically show up in your life, you understand how you show up, and shift what no longer serves you.</p>
-      <p>The ELI isn't just another assessment, it's a powerful tool that provides the clarity and insight needed to create the foundation for the change you seek. Whether you want to reduce stress, live more authentically, or feel more in control of your path, the ELI can guide you toward a more fulfilling, empowered life.</p>
-    </div>
+      <p>I'm an <strong>ICF-accredited coach</strong>, trained through iPEC in Energy Leadership and <strong>Transition Dynamics</strong>, and a <strong>certified mindfulness practitioner</strong> through the British Mindfulness Institute.</p>
+      <p>Three disciplines, brought together so that whatever sits underneath the surface, we have the means to reach it. A structured, intelligent, deeply human process rather than a conversation that wanders.</p>
+      <p>We begin with the <strong>Energy Leadership Index</strong>, an attitudinal assessment recommended by Forbes and available only through iPEC-certified coaches. It shows how you show up day to day, and how that shifts under pressure. Your first session is the debrief.</p>
+      <p>Mindfulness runs underneath all of it, and its job is simple: it improves the quality of the decision.</p>
+      <div class="actions"><a class="btn-link" href="/mindfully-priya-coaching">More about how I work</a></div>
+</div>
   </div>
 </section>
 
@@ -149,11 +163,11 @@ image: 30adefd260
 <section class="band band-sand" style="margin-block:0">
   <div class="wrap">
     <p class="eyebrow">Testimonials</p>
-    <h2>Over the years, I've had the privilege of working with hundreds of women at exactly this kind of crossroads. Here's what some of them have shared.</h2>
+    <h2>Over the years I have sat with many women at a turning point, at different ages and different stages. Here is what some of them have said.</h2>
     <div class="quotes" style="margin-top:3rem">
-      <figure class="lead"><p>"For years I felt invisible constantly doubting myself, people-pleasing, and feeling trapped in fear and shame. Working with Priya felt like finally being seen. Her calm, compassionate presence helped me unravel years of self-doubt and rebuild trust in myself. I'm learning to make decisions from self-love, not fear and for the first time, I actually believe in my own voice."</p><figcaption>Reconnecting with Self &amp; Confidence - Anjali, Entrepreneur, 20s</figcaption></figure>
-      <figure><p>"I knew what to do but I just couldn't stay consistent. Priya helped me understand the deeper patterns underneath my burnout and why I kept losing motivation. Her mix of mindfulness and gentle coaching questions helped me reconnect with what truly nourishes me. I've found calm, energy, and purpose again."</p><figcaption>Overcoming Burnout &amp; Rediscovering Joy - Becky, Working Mum, 40s</figcaption></figure>
-      <figure><p>"I felt completely lost trying to juggle motherhood, work, and who I used to be. Through Priya's coaching, I realised I didn't need to 'go back' to who I was, I'm becoming someone new. The reflection tools she shared between sessions helped me feel prepared, confident, and emotionally grounded as I stepped into work again."</p><figcaption>Returning to Work with Clarity &amp; Balance - Danielle, Mum of Two, Returning to Work</figcaption></figure>
+      <figure class="lead"><p>"For years I felt invisible constantly doubting myself, people-pleasing, and feeling trapped in fear and shame. Working with Priya felt like finally being seen. Her calm, compassionate presence helped me unravel years of self-doubt and rebuild trust in myself. I'm learning to make decisions from self-love, not fear and for the first time, I actually believe in my own voice."</p><figcaption>Reconnecting with herself and her confidence - Anjali, entrepreneur, 20s</figcaption></figure>
+      <figure><p>"I knew what to do but I just couldn't stay consistent. Priya helped me understand the deeper patterns underneath my burnout and why I kept losing motivation. Her mix of mindfulness and gentle coaching questions helped me reconnect with what truly nourishes me. I've found calm, energy, and purpose again."</p><figcaption>Finding her energy and purpose again - Becky, working mum, 40s</figcaption></figure>
+      <figure><p>"I felt completely lost trying to juggle motherhood, work, and who I used to be. Through Priya's coaching, I realised I didn't need to 'go back' to who I was, I'm becoming someone new. The reflection tools she shared between sessions helped me feel prepared, confident, and emotionally grounded as I stepped into work again."</p><figcaption>Returning to work with clarity - Danielle, mum of two</figcaption></figure>
       <figure><p>"Priya has a special way of making everyone feel heard and valued. Her calm, non-judgemental style allows real honesty the kind that leads to transformation. She helped me unlearn years of people-pleasing and fear of judgement. Her blend of mindfulness and coaching made me feel safe to be honest. I found strength I didn't know I had and clarity about the kind of woman and mother I want to be."</p><figcaption>Letting go of people pleasing - Manisha, 30s</figcaption></figure>
       </div>
   </div>
@@ -170,6 +184,7 @@ image: 30adefd260
       <li><img src="/images/f6eff30505.png" alt="British Mindfulness Institute"></li>
       <li><img src="/images/d7fbe446d3.png" alt="Trained to Teach .b, Mindfulness in Schools Project"></li>
       <li><img src="/images/a2fb63eafe.png" alt="Connected Kids certification"></li>
+      <li><img src="/images/de3d8ce8a0.jpg" alt="Millennial Life Coaches 2026 Coach of the Year finalist"></li>
     </ul>
   </div>
 </section>
@@ -190,23 +205,16 @@ image: 30adefd260
 </section>
 
 <section class="section">
-  <div class="wrap">
-    <div class="section-head"><h2>From the journal</h2><a class="btn-link" href="/blog">All posts</a></div>
-    {{LATEST_POSTS}}
-  </div>
-</section>
-
-<section class="section">
   <div class="wrap intro-grid">
     <div><p class="eyebrow">Questions</p><h2>Frequently asked questions</h2></div>
     <div class="faq">
-      <details><summary>What is life coaching and how can it help me?</summary><p>Life coaching offers a supportive non-judgmental, forward-focused space to explore where you are, what feels out of balance, and what you truly want next.</p><p>At Mindfully Priya, I blend mindfulness and professional coaching to help you reconnect with your values, shift unhelpful patterns, and create meaningful, lasting change - in your life, work, and relationships.</p></details>
+      <details><summary>What actually happens in this work?</summary><p>A supportive, non-judgemental, forward-looking space to examine where you are, what feels out of balance, and what you want next. I blend mindfulness and professional coaching to help you see your own patterns clearly and make decisions you can stand behind, in your work, your life and your relationships.</p></details>
       <details><summary>Who is your coaching work for?</summary><p>Experienced women, usually somewhere between their mid-forties and late fifties, who have reached a real crossroads in their career or their life and want to think it through privately before they decide. I also work with organisations who want to keep and develop experienced women through exactly those transitions.</p></details>
-      <details><summary>What's the best way to book a free session?</summary><p>You can book a free 30-minute session through my <a href="/free-coaching">Free Session page</a> or email me at <a href="mailto:hello@mindfullypriya.com">hello@mindfullypriya.com</a>. It's a relaxed, no-pressure conversation where you can share what's on your mind, explore what you'd like support with, and see whether coaching with me feels like the right fit for you.</p></details>
+      <details><summary>What's the best way to book a free session?</summary><p>You can book a free 30-minute session through my <a href="/mindfully-priya-booking">booking page</a> or email me at <a href="mailto:hello@mindfullypriya.com">hello@mindfullypriya.com</a>. It's a relaxed, no-pressure conversation where you can share what's on your mind, explore what you'd like support with, and see whether coaching with me feels like the right fit for you.</p></details>
       <details><summary>Can I work with you online if I'm not in London or the UK?</summary><p>Yes, absolutely. I coach clients all over the world through secure online sessions. Whether you're based in Europe, the US, or Asia, we can easily find a time that works for your time zone.</p><p>Online sessions are just as reflective and transformative as in-person coaching, and allow you to access support wherever you are.</p></details>
       <details><summary>What happens in a coaching session with you?</summary><p>You can expect a calm, supportive space where you're invited to pause, reflect, and speak honestly without judgement. Together, we'll explore what's feeling heavy, unclear, or stuck, and use mindfulness and coaching tools to build awareness and gentle next steps that feel true to you.</p></details>
-      <details><summary>How long does coaching usually take?</summary><p>It really depends on what you want support with. Some people feel clearer after a few sessions, while others prefer a longer journey for deeper change. You can begin with a free call, and then decide what feels right for you based on your goals, pace, and what's happening in your life.</p></details>
-      <details><summary>What's the difference between therapy and life coaching?</summary><p>Therapy focuses on healing the past, while coaching supports you to take empowered action in the present and future.</p><p>My approach bridges the two, combining mindfulness and reflection to understand your patterns while guiding you toward practical steps that create real-world change.</p></details>
+      <details><summary>How long does coaching usually take?</summary><p>It really depends on what you want support with. Some people feel clearer after a few sessions, while others prefer a longer piece of work for deeper change. You can begin with a free call, and then decide what feels right for you based on your goals, pace, and what's happening in your life.</p></details>
+      <details><summary>What's the difference between therapy and life coaching?</summary><p>Therapy works with what has happened to you, often clinically and often with the past. Coaching works with what you decide to do from here. I am not a therapist and this is not treatment, and if what you bring would be better served by therapy I will say so.</p><p>My approach uses mindfulness and reflection to understand the patterns you are acting from, then practical steps that hold up in the real world.</p></details>
       <details><summary>How is your coaching approach different from other life coaching?</summary><p>I blend mindfulness, values-based inquiry, and Energy Leadership&trade; coaching to support you from the inside out. That means you get a gentle, grounded space to slow down, notice what's really going on, and take clear, practical steps forward. It's ideal if you want change without feeling pushed or overwhelmed.</p></details>
       <details><summary>What kinds of programmes and workshops do you offer?</summary><p>I offer a variety of wellbeing programmes and workshops focused on mindfulness, identity, balance, burnout and emotional resilience.</p><p>Sessions are designed to meet people where they are from new parents and professionals to community groups and schools.</p><p>I also create bespoke programmes for organisations or groups who want something tailored to their specific needs, themes, or goals.</p></details>
       <details><summary>How can my organisation or team work with you?</summary><p>I partner with businesses and organisations to deliver bespoke wellbeing and coaching solutions that strengthen emotional resilience, mindful leadership, and workplace connection.</p><p>These can include one-off sessions, multi-week programmes, or full wellbeing initiatives designed around your company culture.</p><p>Whether your focus is stress management, leadership development, or supporting employees returning to work, each session is practical, inclusive, and rooted in mindfulness.</p></details>

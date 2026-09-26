@@ -77,6 +77,6 @@ I offer a free 30-minute taster session where you can experience how mindfulness
 - Reconnect with the woman behind the mum
 - Build confidence, clarity, and emotional balance
 
-[Book your free taster session here](/free-coaching){.btn .btn-accent}
+[Book your free taster session here](/mindfully-priya-booking){.btn .btn-accent}
 
 Because you deserve more than just to “get through the day” you deserve to feel grounded, peaceful, and fully alive.

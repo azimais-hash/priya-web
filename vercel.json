@@ -30,6 +30,11 @@
       "source": "/category/all-products",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/free-coaching",
+      "destination": "/mindfully-priya-booking",
+      "permanent": true
     }
   ]
 }

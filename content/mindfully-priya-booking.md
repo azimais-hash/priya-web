@@ -9,6 +9,8 @@ image_alt: A woman smiling at her laptop in a bright room
 ---
 
 
+<p class="fallback">If the calendar does not load, <a href="{{LINK:BOOK_DISCOVERY}}">book here instead</a>, or email <a href="mailto:hello@mindfullypriya.com">hello@mindfullypriya.com</a>.</p>
+
 <div class="cal-wrap wide">
 <div id="cal-inline" class="cal-embed"></div>
 <noscript><p><a class="btn btn-accent" href="{{LINK:BOOK_DISCOVERY}}">Open the booking calendar</a></p></noscript>
@@ -22,16 +24,19 @@ Cal("inline", { elementOrSelector: "#cal-inline", calLink: "mindfullypriya/30min
 Cal("ui", { hideEventTypeDetails: false, layout: "month_view" });
 </script>
 
-<h2>Other ways to work together</h2>
-
-<div class="offers">
-<div class="offer"><div><h3><a href="/service-page/free-30-min-session">Free 30 min session</a></h3><span class="meta">30 min &middot; Free</span></div><p>This is your invitation to pause, breathe, and reconnect.</p><a class="btn-link offer-go" href="{{LINK:BOOK_DISCOVERY}}">Request to book</a></div>
-<div class="offer"><div><h3><a href="/service-page/1-1-clarity-coaching-session">1:1 Clarity Coaching Session</a></h3><span class="meta">1 hr &middot; £98</span></div><p>Unlock breakthrough insights and find your path forward.</p><a class="btn-link offer-go" href="{{LINK:BOOK_CLARITY}}">Book now</a></div>
-<div class="offer"><div><h3><a href="/service-page/1-1-coaching-package-9-sessions">1:1 coaching package (9 sessions)</a></h3><span class="meta">1 hr sessions</span></div><p>For women ready to create lasting change, from the inside out</p><a class="btn-link offer-go" href="/service-page/1-1-coaching-package-9-sessions">More info</a></div>
-<div class="offer"><div><h3><a href="/service-page/career-clarity-reset">Career Clarity Reset</a></h3><span class="meta">1 hr sessions</span></div><p>Find your direction with confidence and calm</p><a class="btn-link offer-go" href="{{LINK:BOOK_CAREER_RESET}}">Book now</a></div>
-<div class="offer"><div><h3><a href="/service-page/beyond-mum-becoming-mindfully-me-again">Beyond Mum: Becoming Mindfully Me Again</a></h3><span class="meta">1 hr sessions</span></div><p>Reclaim your identity, release the guilt, and reconnect with the woman you were always meant to be.</p><a class="btn-link offer-go" href="{{LINK:BOOK_BEYOND_MUM}}">Book now</a></div>
-</div>
-
-<div class="actions">
-<a class="btn btn-accent" href="{{LINK:BOOK_DISCOVERY}}">Book your free session</a>
-</div>
+<section class="band band-sand" style="margin-block:0">
+  <div class="wrap split landscape reverse">
+    <img src="/images/3a4833976c.jpg" alt="Priya Khan, smiling, wearing a yellow scarf">
+    <div>
+      <p class="eyebrow">Before you book</p>
+      <h2>Thirty minutes. Private. Nothing is decided on the call.</h2>
+      <p>It is by video or phone, whichever suits you. You talk, I listen, and we look at what is actually at stake.</p>
+      <ul class="ticks">
+        <li>You do not need to have it worked out before we speak. Most people arrive mid-thought.</li>
+        <li>There is nothing to decide at the end, and no follow-up sequence waiting for you.</li>
+        <li>If something other than my programme would serve you better, I will say so.</li>
+      </ul>
+      <p>Prefer to write first? Email <a href="mailto:hello@mindfullypriya.com">hello@mindfullypriya.com</a>, or begin with <a href="/reconnection">The Reconnection</a>, twelve private questions I answer personally.</p>
+    </div>
+  </div>
+</section>

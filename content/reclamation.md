@@ -140,3 +140,12 @@ Over six months and twelve sessions we work through five phases. Each one builds
 </ol>
 
 <div class="actions"><a class="btn btn-accent" href="/mindfully-priya-booking">Book a complimentary call</a><a class="btn-link" href="/reconnection">Or begin with The Reconnection</a></div>
+
+<section class="section faq-block">
+<h2>Before you ask</h2>
+<div class="faq">
+<details><summary>Why is there no price on this page?</summary><p>Because the right answer depends on what you need. Six months of private work is a significant commitment of money and attention, and I would rather tell you what it costs once I understand what you are facing, and say plainly if something smaller would serve you better. You will have a clear figure on the call, and there is no expectation that you decide on it.</p></details>
+<details><summary>What if I am not sure this is the right thing?</summary><p>That is a reasonable place to start from, and the call is where we find out. If it is not right, I will tell you, and you will still leave with a clearer view of what you are weighing up.</p></details>
+<details><summary>Is any of this shared with anyone?</summary><p>No. What you say stays between us. I do not use client stories in my writing or my marketing.</p></details>
+</div>
+</section>

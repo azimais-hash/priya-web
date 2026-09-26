@@ -18,10 +18,11 @@ TEMPLATES = os.path.join(ROOT, 'templates')
 BASE_URL = 'https://www.mindfullypriya.com'
 
 NAV = [
-    ('/reclamation', 'The Reclamation Programme'),
-    ('/for-organisations', 'For Organisations'),
+    ('/reclamation', 'Reclamation'),
+    ('/for-organisations', 'Organisations'),
     ('/south-asian-midlife', 'South Asian Midlife'),
-    ('/mindfully-priya-coaching', 'About Priya'),
+    ('/mindfully-priya-coaching', 'About'),
+    ('/reconnection', 'The Reconnection'),
     ('/blog', 'Insights'),
 ]
 
@@ -154,6 +155,9 @@ def main():
                              content=content,
                              extra=extra)
         out = fill(base,
+                   robots=('<meta name="robots" content="noindex, follow">'
+                           if m.get('noindex') == 'true' else ''),
+                   analytics='<script defer src="/_vercel/insights/script.js"></script>',
                    title=html.escape(m['title']),
                    description=html.escape(m.get('description', '')),
                    canonical=BASE_URL + ('' if p['url'] == '/' else p['url']),

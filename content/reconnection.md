@@ -1,6 +1,6 @@
 ---
 title: Reconnection | Mindfully Priya
-description: reflection journal for midlife professional successful women
+description: The Reconnection: twelve private questions, about fifteen minutes, and a personal written response from Priya Khan within 72 hours. No scores, no categories.
 eyebrow: The Reconnection
 heading: Something doesn't fit&nbsp;- but you can't quite name it yet.
 lede: When did you last sit with a question that was just about you?
@@ -38,7 +38,7 @@ This is for you if you paused at that first question and felt something.
 <a class="btn btn-accent" href="{{LINK:FORM_RECONNECTION}}">Begin The Reconnection</a>
 </div>
 
-<p style="margin-top:1.25rem">Your responses are private. Only I read them. You'll hear from me within 72 hours.</p>
+<p style="margin-top:1.25rem">Your responses are private. Only I read them. You'll hear from me within 72 hours. <a href="/privacy">How your answers are handled</a>.</p>
 
 </section>
 
