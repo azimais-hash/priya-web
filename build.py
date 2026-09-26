@@ -107,6 +107,28 @@ def post_card(p):
             f'<span class="card-title">{html.escape(m.get("heading") or m["title"])}</span></a>')
 
 
+REVIEW_TO = 'horizon.esg@gmail.com'
+
+
+def review_bar(page):
+    """Approval banner shown only on unpublished drafts."""
+    slug = page['rel'].split('/')[-1]
+    title = page['meta'].get('heading') or page['meta']['title']
+    approve = (f'mailto:{REVIEW_TO}?subject=APPROVE%20{slug}'
+               f'&body=Publish%20this%20one.%20(Sent%20from%20the%20preview%20page.)')
+    changes = (f'mailto:{REVIEW_TO}?subject=CHANGES%20{slug}'
+               f'&body=What%20I%27d%20like%20changed%3A%0A%0A')
+    return (f'<div class="review-bar"><div class="wrap review-inner">'
+            f'<div><p class="review-tag">Draft for review</p>'
+            f'<p class="review-note">Nobody can find this page. It is not linked '
+            f'anywhere, and it is hidden from Google. Approving publishes it to '
+            f'the Insights page at this same address.</p></div>'
+            f'<div class="review-actions">'
+            f'<a class="btn btn-accent" href="{approve}">Approve and publish</a>'
+            f'<a class="btn" href="{changes}">Send back for changes</a>'
+            f'</div></div></div>')
+
+
 def main():
     pages = []
     for dirpath, _, files in os.walk(CONTENT):
@@ -119,7 +141,8 @@ def main():
             meta, body = read_page(path)
             pages.append({'rel': rel, 'url': url, 'meta': meta, 'body': body})
 
-    posts = sorted((p for p in pages if p['rel'].startswith('post/')),
+    posts = sorted((p for p in pages if p['rel'].startswith('post/')
+                    and p['meta'].get('draft') != 'true'),
                    key=lambda p: post_date(p['meta']), reverse=True)
     blocks = {
         'POSTS': '<div class="cards">' + ''.join(post_card(p) for p in posts) + '</div>',
@@ -153,8 +176,12 @@ def main():
                              read=m.get('read', ''),
                              content=content,
                              extra=extra)
+        if m.get('draft') == 'true':
+            main_html = review_bar(p) + main_html
         out = fill(base,
-                   robots=('<meta name="robots" content="noindex, follow">'
+                   robots=('<meta name="robots" content="noindex, nofollow">'
+                           if m.get('draft') == 'true' else
+                           '<meta name="robots" content="noindex, follow">'
                            if m.get('noindex') == 'true' else ''),
                    analytics='<script defer src="/_vercel/insights/script.js"></script>',
                    title=html.escape(m['title']),
@@ -179,7 +206,8 @@ def main():
     for asset in ('site.css', 'site.js'):
         shutil.copy(os.path.join(ROOT, 'assets', asset), os.path.join(PUBLIC, asset))
 
-    urls = sorted(BASE_URL + ('' if p['url'] == '/' else p['url']) for p in pages if p['meta'].get('noindex') != 'true')
+    urls = sorted(BASE_URL + ('' if p['url'] == '/' else p['url']) for p in pages
+                  if p['meta'].get('noindex') != 'true' and p['meta'].get('draft') != 'true')
     with open(os.path.join(PUBLIC, 'sitemap.xml'), 'w') as fh:
         fh.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
         fh.writelines(f'  <url><loc>{u}</loc></url>\n' for u in urls)

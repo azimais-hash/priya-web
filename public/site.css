@@ -401,3 +401,13 @@ blockquote cite, .quote-by { display: block; margin-top: 1rem; font: 500 .85rem/
 
 .fallback { font-size: .9rem; color: var(--ink-2); }
 .faq-block { border-top: 1px solid var(--line); }
+
+/* Draft review banner (unpublished articles only) */
+.review-bar { background: var(--teal-deep); color: var(--on-teal); padding-block: 1.5rem; }
+.review-inner { display: flex; gap: 2rem; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+.review-tag { font: 600 .75rem/1.4 var(--sans); letter-spacing: .16em; text-transform: uppercase; color: #fff; margin: 0 0 .35rem; }
+.review-note { margin: 0; font-size: .9rem; color: var(--on-teal-2); max-width: 46ch; }
+.review-actions { display: flex; gap: .75rem; flex-wrap: wrap; }
+.review-bar .btn { color: #fff; border-color: rgba(255,255,255,.6); }
+.review-bar .btn:hover { background: #fff; color: var(--teal); }
+.review-bar .btn-accent { border-color: var(--accent); }
