@@ -1,11 +1,12 @@
 ---
 title: Free Discovery Call | Mindful Life Coaching UK | Mindfully Priya
-description: Book your free 30-minute discovery call with Priya, a certified life coach in UK. Explore how mindful coaching can help you achieve your women goals.
+description: Book your free 30-minute discovery call with Priya Khan, an ICF-accredited coach. A relaxed, private conversation about what is shifting for you.
 eyebrow: Free session
 heading: Free 30 min session
 lede: This is your invitation to pause, breathe, and reconnect.
 image: 1d228a3550
 image_alt: A woman in a yellow jumper sitting on a sofa with a laptop
+noindex: true
 ---
 
 <ul class="facts">

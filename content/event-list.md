@@ -1,10 +1,12 @@
 ---
-title: Discover Mindful Parenting Techniques | UK Courses & Programs with Priya
-description: Discover upcoming coaching programs, and courses for women in transition, to new mums to midlife. Join today!
+title: Group Programmes | Mindfully Priya
+description: Small group coaching programmes with Priya Khan, for women in transition. New mums, British-born South Asian mothers, in person in South London and online.
 eyebrow: Programmes
-heading: Upcoming Programmes
+heading: Group programmes
+lede: Small groups, run a few times a year, alongside the private coaching.
 image: 178fe87f67
 image_alt: A South Asian mother laughing with her young child
+noindex: true
 ---
 
 <div class="offers">
@@ -19,7 +21,7 @@ image_alt: A South Asian mother laughing with her young child
 <a class="btn offer-go" href="/event-details/mindfully-you-a-calm-space-for-new-mums-6-weeks">Enquire about a place</a>
 </div>
 <div class="offer">
-<h3><a href="/event-details/rooted-rising-a-healing-journey-for-british-born-south-asian-mothers">Rooted &amp; Rising A Healing Journey for British-Born South Asian Mothers</a></h3>
+<h3><a href="/event-details/rooted-rising-a-healing-journey-for-british-born-south-asian-mothers">Rooted &amp; Rising, for British-Born South Asian Mothers</a></h3>
 <p>Starting in May 2026<span class="meta">Virtual and in person programme</span></p>
 <a class="btn offer-go" href="/event-details/rooted-rising-a-healing-journey-for-british-born-south-asian-mothers">Register your interest</a>
 </div>

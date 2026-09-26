@@ -1,11 +1,12 @@
 ---
-title: New Mum Coaching Program | Mindful Journey | Mindfully Priya
-description: Embrace motherhood mindfully with our 6-week program for new mums in UK. Gain confidence to navigate postpartum emotions and connect with your new identity.
+title: Career Clarity Reset | Mindfully Priya
+description: A six-week 1:1 coaching programme for women questioning their direction at work. Clarity, confidence and a career direction that fits the life you have now.
 eyebrow: 1:1 Coaching
 heading: Career Clarity Reset
 lede: Find your direction with confidence and calm
 image: bac0fbb703
 image_alt: A smiling woman with glasses standing in a bright office
+noindex: true
 ---
 
 <ul class="facts">
@@ -23,13 +24,13 @@ Maybe you're...
 <li>Successful on paper but emotionally unfulfilled</li>
 <li>Returning to work or considering a career change</li>
 <li>Recovering from burnout or redundancy</li>
-<li>Craving meaning, confidence and clarity, not just another job</li>
+<li>Craving meaning, confidence and clarity in the work itself</li>
 </ul>
 
 You don't need more pressure or advice.
 
 You need space to reconnect with yourself and reset your direction.
-This 6-week coaching journey supports women at any stage of life to find clarity, confidence and direction, without burnout, people-pleasing or overwhelm.
+This 6-week coaching programme supports women at any stage of life to find clarity, confidence and direction, without burnout, people-pleasing or overwhelm.
 
 This is not traditional career coaching focused only on CVs or productivity.
 
@@ -42,11 +43,11 @@ This is deep identity work combined with practical coaching, helping you underst
 <li>What direction fits your energy, values and life stage</li>
 </ul>
 
-So that you can move forward feeling empowered - not overwhelmed.
+So that you can move forward with a clear head and a direction you chose.
 
 <section class="band band-sand" markdown="1">
 
-### This coaching journey will help you:
+### This coaching programme will help you:
 
 <ul class="ticks">
 <li>Find clarity on your next career steps</li>
@@ -73,16 +74,16 @@ So that you can move forward feeling empowered - not overwhelmed.
 
 I'm an ACC ICF-accredited Mindfulness &amp; Career Coach, trained in Energy Leadership coaching (iPEC) and mindful practices.
 
-This means our work together focuses not only on goals... but on:
+This means our work together goes beyond goals, to:
 
 <ul class="ticks">
 <li>Emotional safety</li>
 <li>Nervous-system regulation</li>
 <li>Identity transformation</li>
-<li>Confidence and empowerment</li>
+<li>Confidence and self-trust</li>
 </ul>
 
-> True career clarity comes when you feel calm, connected, and courageous, not rushed or pressurised.
+> True career clarity comes when you feel calm, connected and courageous.
 
 <div class="actions">
 <a class="btn btn-accent" href="{{LINK:BOOK_CAREER_RESET}}">Book now</a>

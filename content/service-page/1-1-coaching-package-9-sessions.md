@@ -1,11 +1,12 @@
 ---
-title: 1:1 Life Coaching Course | Women/Mother in UK| Mindfully Priya
-description: Achieve your personal and professional goals with 1:1 mindful coaching in UK. Priya offers personalized support and guidance through 9 empowering sessions.
+title: 1:1 Coaching Package, 9 Sessions | Mindfully Priya
+description: Nine weeks of private mindful coaching with Priya Khan, including an Energy Leadership Index debrief. For women navigating a transition in work, identity or family life.
 eyebrow: 1:1 Coaching
 heading: 1:1 coaching package (9 sessions)
 lede: For women ready to create lasting change, from the inside out
 image: 10ee672f8d
 image_alt: A woman in a headscarf smiling during an online call at her laptop
+noindex: true
 ---
 
 <ul class="facts">
@@ -16,10 +17,9 @@ image_alt: A woman in a headscarf smiling during an online call at her laptop
 
 This is your space to slow down, be deeply seen, and explore what's next, from a place of clarity, calm, and self-trust.
 
-Over 9 weeks, we'll work together to untangle what's holding you back, shift the patterns that no longer serve you, and strengthen the connection to who you truly are, beyond the roles, expectations, and day-to-day overwhelm.
+Over 9 weeks, we'll work together to untangle what's holding you back, shift the patterns that keep you stuck, and strengthen the connection to who you truly are, beyond the roles, expectations, and day-to-day overwhelm.
 
-This isn't a programme.
-It's your journey, guided and supported by me with weekly coaching sessions tailored to your life, your energy, and your vision.
+This is your own work, guided and supported by me, with weekly coaching sessions tailored to your life, your energy, and what you want next.
 
 <section class="band band-sand" markdown="1">
 <div class="split landscape" markdown="1">
@@ -45,7 +45,7 @@ It's your journey, guided and supported by me with weekly coaching sessions tail
 <li>You're craving clarity, confidence, and a deeper sense of balance in your life</li>
 <li>You want to break free from old thought patterns or energy drains</li>
 <li>You're navigating a life transition (career shift, parenting change, identity shift)</li>
-<li>You're ready to be supported and not just seen as the "strong one"</li>
+<li>You're ready to be the one who gets supported, after years of being the "strong one"</li>
 </ul>
 
 ### Your experience will be:
@@ -58,6 +58,6 @@ It's your journey, guided and supported by me with weekly coaching sessions tail
 </ul>
 
 <div class="actions">
-<a class="btn btn-accent" href="/free-coaching">Start with a free session</a>
+<a class="btn btn-accent" href="/mindfully-priya-booking">Start with a free session</a>
 <a class="btn-link" href="/mindfully-priya-booking">All services</a>
 </div>

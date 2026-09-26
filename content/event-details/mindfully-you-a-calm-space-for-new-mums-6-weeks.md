@@ -6,6 +6,7 @@ heading: Mindfully You - A Calm Space for New Mums (6 weeks)
 lede: Rediscover yourself. Breathe deeply. Feel supported. A mindful, baby-friendly group to help you navigate early motherhood with calm, clarity, and connection.
 image: f59e733be2
 image_alt: Mindfully You - A Calm Space for New Mums (6 weeks)
+noindex: true
 ---
 
 <ul class="facts">

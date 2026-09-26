@@ -6,6 +6,7 @@ heading: Online Mindfully You - A Calm Space for New Mums
 lede: Rediscover yourself. Breathe deeply. Feel supported. A mindful, baby-friendly group to help you navigate early motherhood with calm, clarity, and connection.
 image: f59e733be2
 image_alt: Online Mindfully You - A Calm Space for New Mums
+noindex: true
 ---
 
 <ul class="facts">

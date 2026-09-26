@@ -1,11 +1,12 @@
 ---
-title: Rooted & Rising A Healing Journey for British-Born South Asian Mothers | Mindfully Priya
-description: A 6-Week Group Coaching Journey to Heal Generational Guilt, Reclaim Your Voice, and Mother from Wholeness
+title: Rooted & Rising | Mindfully Priya
+description: A six-week group coaching programme for British-born South Asian mothers, to heal generational guilt, reclaim your voice, and mother from wholeness.
 eyebrow: Programme
 heading: Rooted & Rising
-lede: A 6-Week Group Coaching Journey to Heal Generational Guilt, Reclaim Your Voice, and Mother from Wholeness
+lede: A six-week group coaching programme to heal generational guilt, reclaim your voice, and mother from wholeness.
 image: 178fe87f67
 image_alt: A South Asian mother laughing with her young child
+noindex: true
 ---
 
 <p class="big">For South Asian British-born mothers ready to break inherited patterns, release guilt, and rediscover who they truly are beyond roles, pressure, and expectations.</p>
@@ -21,7 +22,7 @@ image_alt: A South Asian mother laughing with her young child
 
 <p class="eyebrow">Introducing: Rooted &amp; Rising</p>
 
-A 6-week guided coaching journey for South Asian British-born mothers who are ready to:
+A 6-week guided coaching programme for South Asian British-born mothers who are ready to:
 
 <ul class="ticks">
 <li>Let go of guilt passed down through generations</li>
@@ -42,7 +43,7 @@ All while being seen, supported, and celebrated by women who get it.
 <div class="actions"><a class="btn" href="{{LINK:FORM_PROGRAMME}}">Register your interest</a><a class="btn-link" href="/event-list">See other events</a></div>
 </div>
 <div class="gallery" style="padding:0">
-<img src="/images/a108115519.jpg" alt="Rooted and Rising: a 6-week group coaching journey for British-born South Asian mothers" loading="lazy" style="aspect-ratio:4/5;object-fit:contain;background:#fff">
+<img src="/images/a108115519.jpg" alt="Rooted and Rising: a 6-week group coaching programme for British-born South Asian mothers" loading="lazy" style="aspect-ratio:4/5;object-fit:contain;background:#fff">
 <img src="/images/0c7c8924e6.jpg" alt="Your 6 week journey, week by week" loading="lazy" style="aspect-ratio:4/5;object-fit:contain;background:#fff">
 </div>
 </div>

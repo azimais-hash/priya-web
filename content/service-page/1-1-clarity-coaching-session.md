@@ -3,9 +3,10 @@ title: 1:1 Clarity Coaching Session | Mindfully Priya
 description: A focused one-on-one session designed to help you cut through the noise and gain perspective on your most pressing challenges. Together, we will identify actionable steps to move you forward with confidence and purpose.
 eyebrow: 1:1 Coaching
 heading: 1:1 Clarity Coaching Session
-lede: Unlock breakthrough insights and find your path forward.
+lede: One focused hour on the thing that is taking up the most room.
 image: dad013baa6
 image_alt: A woman smiling as she works on a laptop at home
+noindex: true
 ---
 
 <ul class="facts">
