@@ -107,7 +107,8 @@ def post_card(p):
             f'<span class="card-title">{html.escape(m.get("heading") or m["title"])}</span></a>')
 
 
-REVIEW_TO = 'horizon.esg@gmail.com'
+# The mailbox the approvals job reads (NOTIFY_SMTP_USER in /root/priya-site/.env).
+REVIEW_TO = os.environ.get('REVIEW_TO', 'horizon.esg@gmail.com')
 
 
 def review_bar(page):
@@ -117,12 +118,13 @@ def review_bar(page):
     approve = (f'mailto:{REVIEW_TO}?subject=APPROVE%20{slug}'
                f'&body=Publish%20this%20one.%20(Sent%20from%20the%20preview%20page.)')
     changes = (f'mailto:{REVIEW_TO}?subject=CHANGES%20{slug}'
-               f'&body=What%20I%27d%20like%20changed%3A%0A%0A')
+               f'&body=What%20I%27d%20like%20changed%20(you%20can%20attach%20a%20photo%20for%20the%20cover)%3A%0A%0A')
     return (f'<div class="review-bar"><div class="wrap review-inner">'
             f'<div><p class="review-tag">Draft for review</p>'
             f'<p class="review-note">Nobody can find this page. It is not linked '
             f'anywhere, and it is hidden from Google. Approving publishes it to '
-            f'the Insights page at this same address.</p></div>'
+            f'the Insights page at this same address. Ask for changes and they are '
+            f'made for you, then you get an email to check them.</p></div>'
             f'<div class="review-actions">'
             f'<a class="btn btn-accent" href="{approve}">Approve and publish</a>'
             f'<a class="btn" href="{changes}">Send back for changes</a>'
