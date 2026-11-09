@@ -129,6 +129,39 @@ def hero_extra(m):
     return out
 
 
+REVIEW_JS = """<script>
+(function () {
+  var f = document.getElementById('rv-form');
+  if (!f) return;
+  var st = f.querySelector('.rv-status'), msg = f.querySelector('#rv-msg');
+  function send(verdict, text, done) {
+    st.textContent = 'Sending...';
+    fetch('/api/review', {method: 'POST', headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({page: f.dataset.page, verdict: verdict, message: text,
+        company_website: f.elements['company_website'].value})})
+      .then(function (r) { return r.json().then(function (j) { if (!r.ok || !j.ok) throw j; }); })
+      .then(function () { st.textContent = done; })
+      .catch(function () {
+        st.textContent = 'That did not send from the page, so your email app is opening with it filled in. Please press Send there.';
+        var base = verdict === 'approve' ? f.dataset.approve : f.dataset.mailto;
+        location.href = base + encodeURIComponent(text);
+      });
+  }
+  document.querySelector('[data-rv="changes"]').addEventListener('click', function () {
+    f.hidden = false; msg.focus();
+  });
+  document.querySelector('[data-rv="approve"]').addEventListener('click', function () {
+    f.hidden = false; send('approve', '', 'Thank you, your approval has been sent to Azim.');
+  });
+  f.addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (!msg.value.trim()) { st.textContent = 'Please write what you would like changed.'; msg.focus(); return; }
+    send('changes', msg.value, 'Thank you, your changes have been sent to Azim.');
+  });
+})();
+</script>"""
+
+
 def review_bar(page):
     """Approval banner shown only on unpublished drafts."""
     slug = page['rel'].split('/')[-1]
@@ -144,9 +177,17 @@ def review_bar(page):
                 f'anywhere and it is hidden from Google. When you approve it, it '
                 f'replaces the live page at {html.escape(live)}.</p></div>'
                 f'<div class="review-actions">'
-                f'<a class="btn btn-accent" href="{approve}">Approve</a>'
-                f'<a class="btn" href="{changes}">Ask for changes</a>'
-                f'</div></div></div>')
+                f'<button class="btn btn-accent" type="button" data-rv="approve">Approve</button>'
+                f'<button class="btn" type="button" data-rv="changes">Ask for changes</button>'
+                f'</div></div>'
+                f'<form class="wrap review-form" id="rv-form" hidden data-page="{slug}" '
+                f'data-mailto="{changes}" data-approve="{approve}">'
+                f'<label for="rv-msg">What would you like changed?</label>'
+                f'<textarea id="rv-msg" rows="8"></textarea>'
+                f'<input class="hp" name="company_website" tabindex="-1" autocomplete="off" aria-hidden="true">'
+                f'<p class="rv-status" role="status"></p>'
+                f'<button class="btn btn-accent" type="submit">Send to Azim</button>'
+                f'</form></div>' + REVIEW_JS)
     title = page['meta'].get('heading') or page['meta']['title']
     approve = (f'mailto:{REVIEW_TO}?subject=APPROVE%20{slug}'
                f'&body=Publish%20this%20one.%20(Sent%20from%20the%20preview%20page.)')

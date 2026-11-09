@@ -49,7 +49,37 @@
   </div>
 </header>
 <main id="main">
-<div class="review-bar"><div class="wrap review-inner"><div><p class="review-tag">Draft page for review</p><p class="review-note">Nobody can find this page. It is not linked anywhere and it is hidden from Google. When you approve it, it replaces the live page at /for-organisations.</p></div><div class="review-actions"><a class="btn btn-accent" href="mailto:azim.khan@ais-consulting.co.uk?subject=APPROVED%20page%20for-organisations-preview&body=Please%20make%20this%20page%20live.">Approve</a><a class="btn" href="mailto:azim.khan@ais-consulting.co.uk?subject=Changes%20to%20page%20for-organisations-preview&body=What%20I%27d%20like%20changed%3A%0A%0A">Ask for changes</a></div></div></div><section class="page-hero">
+<div class="review-bar"><div class="wrap review-inner"><div><p class="review-tag">Draft page for review</p><p class="review-note">Nobody can find this page. It is not linked anywhere and it is hidden from Google. When you approve it, it replaces the live page at /for-organisations.</p></div><div class="review-actions"><button class="btn btn-accent" type="button" data-rv="approve">Approve</button><button class="btn" type="button" data-rv="changes">Ask for changes</button></div></div><form class="wrap review-form" id="rv-form" hidden data-page="for-organisations-preview" data-mailto="mailto:azim.khan@ais-consulting.co.uk?subject=Changes%20to%20page%20for-organisations-preview&body=What%20I%27d%20like%20changed%3A%0A%0A" data-approve="mailto:azim.khan@ais-consulting.co.uk?subject=APPROVED%20page%20for-organisations-preview&body=Please%20make%20this%20page%20live."><label for="rv-msg">What would you like changed?</label><textarea id="rv-msg" rows="8"></textarea><input class="hp" name="company_website" tabindex="-1" autocomplete="off" aria-hidden="true"><p class="rv-status" role="status"></p><button class="btn btn-accent" type="submit">Send to Azim</button></form></div><script>
+(function () {
+  var f = document.getElementById('rv-form');
+  if (!f) return;
+  var st = f.querySelector('.rv-status'), msg = f.querySelector('#rv-msg');
+  function send(verdict, text, done) {
+    st.textContent = 'Sending...';
+    fetch('/api/review', {method: 'POST', headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({page: f.dataset.page, verdict: verdict, message: text,
+        company_website: f.elements['company_website'].value})})
+      .then(function (r) { return r.json().then(function (j) { if (!r.ok || !j.ok) throw j; }); })
+      .then(function () { st.textContent = done; })
+      .catch(function () {
+        st.textContent = 'That did not send from the page, so your email app is opening with it filled in. Please press Send there.';
+        var base = verdict === 'approve' ? f.dataset.approve : f.dataset.mailto;
+        location.href = base + encodeURIComponent(text);
+      });
+  }
+  document.querySelector('[data-rv="changes"]').addEventListener('click', function () {
+    f.hidden = false; msg.focus();
+  });
+  document.querySelector('[data-rv="approve"]').addEventListener('click', function () {
+    f.hidden = false; send('approve', '', 'Thank you, your approval has been sent to Azim.');
+  });
+  f.addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (!msg.value.trim()) { st.textContent = 'Please write what you would like changed.'; msg.focus(); return; }
+    send('changes', msg.value, 'Thank you, your changes have been sent to Azim.');
+  });
+})();
+</script><section class="page-hero">
   <div class="wrap page-hero-inner">
     <div class="page-hero-text">
       <p class="eyebrow">For organisations</p>
