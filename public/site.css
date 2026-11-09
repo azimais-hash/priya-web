@@ -438,3 +438,28 @@ blockquote cite, .quote-by { display: block; margin-top: 1rem; font: 500 .85rem/
 .more[open] summary::after { content: "\2212"; }
 .more > :not(summary) { padding-bottom: 1rem; }
 :is(.btn, .btn-link, .more summary, .faq summary):focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.card-tag { font: 600 .7rem/1.4 var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--accent-ink); margin: 0 0 .6rem; }
+.service-card .gain-head { font-weight: 600; font-size: .85rem; color: var(--ink); margin: .75rem 0 .25rem; }
+.themes { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1.25rem; margin-top: 2rem; }
+.theme { background: #fbf8f4; border: 1px solid var(--line); padding: 1.5rem; }
+.theme h3 { font-size: 1.25rem; margin: .6rem 0 .5rem; }
+.theme p { margin: 0; color: var(--ink-2); font-size: .95rem; }
+.theme-status { display: inline-block; font: 600 .68rem/1 var(--sans); letter-spacing: .12em; text-transform: uppercase; padding: .4rem .55rem; border: 1px solid var(--line); color: var(--ink-2); }
+.theme-status.delivered { background: var(--teal); border-color: var(--teal); color: #fff; }
+.proof-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1.25rem; margin-top: 2rem; }
+.proof-card { border-top: 3px solid var(--teal); background: var(--paper-2); padding: 1.5rem; }
+.proof-org { font-family: var(--display); font-size: 1.35rem; line-height: 1.25; margin: 0 0 .4rem; color: var(--ink); }
+.proof-card .when { display: block; font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent-ink); margin-bottom: .6rem; }
+.proof-card p:last-child { margin: 0; color: var(--ink-2); font-size: .95rem; }
+.testimonial-slot { margin-top: 2rem; border: 2px dashed var(--accent); padding: 1.5rem; color: var(--ink-2); font-size: .95rem; }
+.testimonial-slot p:last-child { margin: 0; }
+.enquiry { background: var(--paper); color: var(--ink); padding: clamp(1.25rem, 3vw, 2rem); display: grid; gap: .35rem; }
+.band-teal .enquiry p, .band-teal .enquiry label { color: var(--ink); }
+.enquiry .form-intro { font-family: var(--display); font-size: 1.3rem; margin: 0 0 .5rem; }
+.enquiry label { font-size: .9rem; font-weight: 500; margin-top: .6rem; }
+.enquiry :is(input, select, textarea) { font: inherit; font-size: 1rem; padding: .7rem .8rem; border: 1px solid rgba(29,42,47,.35); border-radius: var(--radius); background: #fff; color: var(--ink); width: 100%; box-sizing: border-box; }
+.enquiry :is(input, select, textarea):focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.enquiry button { margin-top: 1rem; justify-self: start; cursor: pointer; }
+.band-teal .enquiry .form-small, .enquiry .form-small { font-size: .8rem; color: var(--ink-2); margin: .5rem 0 0; }
+.band-teal .enquiry .form-small a { color: var(--teal); }
+.band-teal .enquiry .form-error { color: #9b2c1f; font-size: .9rem; margin: .5rem 0 0; }
