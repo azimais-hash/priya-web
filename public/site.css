@@ -411,3 +411,30 @@ blockquote cite, .quote-by { display: block; margin-top: 1rem; font: 500 .85rem/
 .review-bar .btn { color: #fff; border-color: rgba(255,255,255,.6); }
 .review-bar .btn:hover { background: #fff; color: var(--teal); }
 .review-bar .btn-accent { border-color: var(--accent); }
+
+/* Hero proof strip and the organisations page components */
+.hero-proof { margin-top: 1.5rem; font-size: .85rem; letter-spacing: .03em; color: var(--ink-2); max-width: 34rem; }
+.page-hero .actions { margin-top: 1.75rem; }
+.service-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr)); gap: 1.5rem; margin-top: 2.5rem; }
+.service-card { background: var(--paper); border: 1px solid var(--line); border-top: 3px solid var(--accent); padding: 2rem 1.75rem; display: flex; flex-direction: column; }
+.band-sand .service-card { background: #fbf8f4; }
+.service-card h3 { font-size: clamp(1.3rem, 2vw, 1.5rem); margin: 0 0 .75rem; }
+.service-card p { color: var(--ink-2); font-size: .97rem; }
+.service-card .topics { list-style: none; padding: 0 !important; margin: 0 0 1.25rem; font-size: .93rem; color: var(--ink-2); }
+.service-card .topics li { padding: .35rem 0 .35rem 1.25rem; margin: 0; position: relative; }
+.service-card .topics li::before { content: ""; position: absolute; left: 0; top: 1.05em; width: .6rem; height: 1px; background: var(--accent); }
+.service-card .meta { font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-2); margin-top: auto; padding-top: 1rem; border-top: 1px solid var(--line); }
+.service-card .btn-link { margin-top: 1rem; }
+.note { font-size: .95rem; color: var(--ink-2); margin-top: 2rem; }
+.examples { list-style: none; padding: 0 !important; border-top: 1px solid var(--line); display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr)); gap: 0 2.5rem; }
+.examples li { padding: 1.5rem 0; margin: 0; border-bottom: 1px solid var(--line); }
+.examples .when { display: block; font-size: .75rem; letter-spacing: .14em; text-transform: uppercase; color: var(--accent-ink); margin-bottom: .4rem; }
+.examples strong { display: block; font-family: var(--display); font-weight: 400; font-size: 1.2rem; line-height: 1.3; margin-bottom: .35rem; }
+.examples p { margin: 0; color: var(--ink-2); font-size: .95rem; }
+.more { border-block: 1px solid var(--line); margin-top: 2rem; }
+.more summary { cursor: pointer; padding: 1.1rem 2rem 1.1rem 0; position: relative; list-style: none; font-weight: 500; color: var(--teal); }
+.more summary::-webkit-details-marker { display: none; }
+.more summary::after { content: "+"; position: absolute; right: .25rem; top: .9rem; font-size: 1.3rem; color: var(--accent); }
+.more[open] summary::after { content: "\2212"; }
+.more > :not(summary) { padding-bottom: 1rem; }
+:is(.btn, .btn-link, .more summary, .faq summary):focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }

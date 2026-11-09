@@ -109,11 +109,44 @@ def post_card(p):
 
 # The mailbox the approvals job reads (NOTIFY_SMTP_USER in /root/priya-site/.env).
 REVIEW_TO = os.environ.get('REVIEW_TO', 'horizon.esg@gmail.com')
+# Draft PAGES (as opposed to articles) are swapped in by hand, so their verdict
+# goes to a person rather than the automated approvals mailbox.
+PAGE_REVIEW_TO = os.environ.get('PAGE_REVIEW_TO', 'azim.khan@ais-consulting.co.uk')
+
+
+def hero_extra(m):
+    """Optional hero calls to action and a one-line proof strip, from front matter."""
+    links = []
+    if m.get('cta1'):
+        links.append(f'<a class="btn btn-accent" href="{m.get("cta1_href", "")}">{html.escape(m["cta1"])}</a>')
+    if m.get('cta2'):
+        links.append(f'<a class="btn-link" href="{m.get("cta2_href", "")}">{html.escape(m["cta2"])}</a>')
+    out = f'<div class="actions">{"".join(links)}</div>' if links else ''
+    if m.get('proof'):
+        out += f'<p class="hero-proof">{html.escape(m["proof"])}</p>'
+    for key, val in LINKS.items():
+        out = out.replace('{{LINK:' + key + '}}', val)
+    return out
 
 
 def review_bar(page):
     """Approval banner shown only on unpublished drafts."""
     slug = page['rel'].split('/')[-1]
+    if not page['rel'].startswith('post/'):
+        live = page['meta'].get('replaces', '')
+        approve = (f'mailto:{PAGE_REVIEW_TO}?subject=APPROVED%20page%20{slug}'
+                   f'&body=Please%20make%20this%20page%20live.')
+        changes = (f'mailto:{PAGE_REVIEW_TO}?subject=Changes%20to%20page%20{slug}'
+                   f'&body=What%20I%27d%20like%20changed%3A%0A%0A')
+        return (f'<div class="review-bar"><div class="wrap review-inner">'
+                f'<div><p class="review-tag">Draft page for review</p>'
+                f'<p class="review-note">Nobody can find this page. It is not linked '
+                f'anywhere and it is hidden from Google. When you approve it, it '
+                f'replaces the live page at {html.escape(live)}.</p></div>'
+                f'<div class="review-actions">'
+                f'<a class="btn btn-accent" href="{approve}">Approve</a>'
+                f'<a class="btn" href="{changes}">Ask for changes</a>'
+                f'</div></div></div>')
     title = page['meta'].get('heading') or page['meta']['title']
     approve = (f'mailto:{REVIEW_TO}?subject=APPROVE%20{slug}'
                f'&body=Publish%20this%20one.%20(Sent%20from%20the%20preview%20page.)')
@@ -174,6 +207,7 @@ def main():
                              heading=m.get('heading') or m['title'].split(' | ')[0],
                              lede=m.get('lede', ''),
                              image=hero_img,
+                             hero_extra=hero_extra(m),
                              date=fmt_date(post_date(m)) if layout == 'post' else '',
                              read=m.get('read', ''),
                              content=content,
