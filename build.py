@@ -121,7 +121,8 @@ def hero_extra(m):
         links.append(f'<a class="btn btn-accent" href="{m.get("cta1_href", "")}">{html.escape(m["cta1"])}</a>')
     if m.get('cta2'):
         links.append(f'<a class="btn-link" href="{m.get("cta2_href", "")}">{html.escape(m["cta2"])}</a>')
-    out = f'<div class="actions">{"".join(links)}</div>' if links else ''
+    out = f'<p class="lede">{m["lede2"]}</p>' if m.get('lede2') else ''
+    out += f'<div class="actions">{"".join(links)}</div>' if links else ''
     if m.get('proof'):
         out += f'<p class="hero-proof">{html.escape(m["proof"])}</p>'
     for key, val in LINKS.items():

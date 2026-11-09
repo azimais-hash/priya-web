@@ -520,3 +520,6 @@ blockquote cite, .quote-by { display: block; margin-top: 1rem; font: 500 .85rem/
 .review-form .rv-status { margin: 0; color: var(--on-teal-2); min-height: 1.2em; }
 .review-form .btn { justify-self: start; }
 .review-bar button.btn { font: inherit; cursor: pointer; background: transparent; }
+.approach-intro { font-size: clamp(1.05rem, 1.6vw, 1.2rem); max-width: 52ch; margin: .75rem 0 0; }
+.hero .lede + .lede, .lede + .lede { margin-top: .9rem; }
+.review-form[hidden] { display: none; }
