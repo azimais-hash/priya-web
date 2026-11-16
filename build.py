@@ -35,6 +35,9 @@ LINKS = {
     # complimentary call every page routes to; the 15 minute one is a quick chat.
     'BOOK_DISCOVERY': 'https://cal.com/mindfullypriya/30min',
     'BOOK_DISCOVERY_CALL': 'https://cal.com/mindfullypriya/30min',
+    # Lowry Legal clients' free hour. Paste the dedicated 60-minute booking link
+    # here when it exists; until then every button jumps to the booking section.
+    'LOWRY_BOOKING': '#book',
     'BOOK_SHORT': 'https://cal.com/mindfullypriya/15min',
     # Paid sessions are arranged on the call and invoiced, so they route to the
     # same call rather than a checkout.
@@ -176,7 +179,9 @@ def review_bar(page):
                 f'<div><p class="review-tag">Draft page for review</p>'
                 f'<p class="review-note">Nobody can find this page. It is not linked '
                 f'anywhere and it is hidden from Google. When you approve it, it '
-                f'replaces the live page at {html.escape(live)}.</p></div>'
+                + (f'replaces the live page at {html.escape(live)}.' if live else
+                   f'goes live at /{slug}, still hidden from Google and the menus.')
+                + '</p></div>'
                 f'<div class="review-actions">'
                 f'<button class="btn btn-accent" type="button" data-rv="approve">Approve</button>'
                 f'<button class="btn" type="button" data-rv="changes">Ask for changes</button>'
@@ -258,7 +263,7 @@ def main():
             main_html = review_bar(p) + main_html
         out = fill(base,
                    robots=('<meta name="robots" content="noindex, nofollow">'
-                           if m.get('draft') == 'true' else
+                           if m.get('draft') == 'true' or m.get('hidden') == 'true' else
                            '<meta name="robots" content="noindex, follow">'
                            if m.get('noindex') == 'true' else ''),
                    analytics='<script defer src="/_vercel/insights/script.js"></script>',
@@ -285,7 +290,8 @@ def main():
         shutil.copy(os.path.join(ROOT, 'assets', asset), os.path.join(PUBLIC, asset))
 
     urls = sorted(BASE_URL + ('' if p['url'] == '/' else p['url']) for p in pages
-                  if p['meta'].get('noindex') != 'true' and p['meta'].get('draft') != 'true')
+                  if p['meta'].get('noindex') != 'true' and p['meta'].get('draft') != 'true'
+                  and p['meta'].get('hidden') != 'true')
     with open(os.path.join(PUBLIC, 'sitemap.xml'), 'w') as fh:
         fh.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
         fh.writelines(f'  <url><loc>{u}</loc></url>\n' for u in urls)
