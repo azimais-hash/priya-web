@@ -3,8 +3,7 @@
   "outputDirectory": "public",
   "cleanUrls": true,
   "trailingSlash": false,
-  "buildCommand": "",
-  "installCommand": "",
+  "buildCommand": "python3 -m pip install --quiet --target /tmp/pydeps markdown && PYTHONPATH=/tmp/pydeps python3 build.py",
   "redirects": [
     {
       "source": "/general-7",

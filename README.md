@@ -22,8 +22,10 @@ keeps its Wix URL so search rankings carry over.
 
 ## Deploy
 
-`public/` is committed, so Vercel needs no build step (`vercel.json` sets the
-output directory and clean URLs). `vercel` for a preview, `vercel --prod` to go live.
+GitHub (private repo) is linked to Vercel. Vercel runs `build.py` itself
+(`buildCommand` in `vercel.json`): every pull request gets a preview link with
+drafts included, and merging to `main` publishes the live site without drafts.
+Priya proposes changes through Claude Code; see `CLAUDE.md` for its rules.
 Move the domain from Wix only once booking, forms and the shop are replaced:
 links to `/booking-calendar/...`, `/challenge-page/...` and product checkout
 still point at the Wix site.

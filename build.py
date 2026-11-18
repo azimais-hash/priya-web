@@ -223,6 +223,11 @@ def main():
             meta, body = read_page(path)
             pages.append({'rel': rel, 'url': url, 'meta': meta, 'body': body})
 
+    # Drafts only exist on preview links; the live site never builds them,
+    # so a draft merged to main stays unpublished until "draft: true" is removed.
+    if os.environ.get('VERCEL_ENV') == 'production':
+        pages = [p for p in pages if p['meta'].get('draft') != 'true']
+
     posts = sorted((p for p in pages if p['rel'].startswith('post/')
                     and p['meta'].get('draft') != 'true'),
                    key=lambda p: post_date(p['meta']), reverse=True)
