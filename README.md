@@ -22,7 +22,7 @@ keeps its Wix URL so search rankings carry over.
 
 ## Deploy
 
-GitHub (private repo) is linked to Vercel. Vercel runs `build.py` itself
+GitHub (public repo, main protected) is linked to Vercel. Vercel runs `build.py` itself
 (`buildCommand` in `vercel.json`): every pull request gets a preview link with
 drafts included, and merging to `main` publishes the live site without drafts.
 Priya proposes changes through Claude Code; see `CLAUDE.md` for its rules.
