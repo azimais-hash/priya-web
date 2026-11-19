@@ -22,10 +22,10 @@ keeps its Wix URL so search rankings carry over.
 
 ## Deploy
 
-GitHub (public repo, main protected) is linked to Vercel. Vercel runs `build.py` itself
+GitHub (public repo; main cannot be force-pushed or deleted) is linked to Vercel. Vercel runs `build.py` itself
 (`buildCommand` in `vercel.json`): every pull request gets a preview link with
 drafts included, and merging to `main` publishes the live site without drafts.
-Priya proposes changes through Claude Code; see `CLAUDE.md` for its rules.
+Priya changes and publishes the site herself through Claude Code; see `CLAUDE.md` for its rules.
 Move the domain from Wix only once booking, forms and the shop are replaced:
 links to `/booking-calendar/...`, `/challenge-page/...` and product checkout
 still point at the Wix site.

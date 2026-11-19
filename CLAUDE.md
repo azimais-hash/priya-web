@@ -12,9 +12,12 @@ plain words and never ask her to run commands.
 3. Commit, push the branch and open a pull request. Title it in plain words,
    for example "Lowry page: real booking link".
 4. Vercel adds a preview link to the pull request within a minute or two. Give
-   Priya that link so she can check it on her phone.
-5. Azim reviews and merges. Merging to `main` publishes the live site. Never
-   merge, force-push or change repository settings yourself.
+   Priya that link and the pull request link so she can check it on her phone.
+5. Priya publishes by pressing "Merge pull request" on GitHub; merging to `main`
+   puts it on the live site within a couple of minutes. Merge it yourself only
+   when Priya clearly asks you to publish. Never force-push or change repository
+   settings.
+6. To undo a published change, open a new pull request that reverts it.
 
 ## Where things are
 
