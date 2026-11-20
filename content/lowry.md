@@ -2,7 +2,6 @@
 title: Transition Coaching for Lowry Legal Clients | Mindfully Priya
 description: A complimentary one-hour transition coaching session for Lowry Legal clients going through separation or divorce.
 layout: html
-draft: true
 hidden: true
 ---
 
