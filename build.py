@@ -35,9 +35,9 @@ LINKS = {
     # complimentary call every page routes to; the 15 minute one is a quick chat.
     'BOOK_DISCOVERY': 'https://cal.com/mindfullypriya/30min',
     'BOOK_DISCOVERY_CALL': 'https://cal.com/mindfullypriya/30min',
-    # Lowry Legal clients' free hour. Paste the dedicated 60-minute booking link
-    # here when it exists; until then every button jumps to the booking section.
-    'LOWRY_BOOKING': '#book',
+    # Lowry Legal clients' free hour: its own Cal.com event, used by every
+    # booking button on /lowry. Never the 30 minute call.
+    'LOWRY_BOOKING': 'https://cal.com/mindfullypriya/lowry-client-free-coaching-session',
     'BOOK_SHORT': 'https://cal.com/mindfullypriya/15min',
     # Paid sessions are arranged on the call and invoiced, so they route to the
     # same call rather than a checkout.
