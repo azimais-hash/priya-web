@@ -39,6 +39,8 @@ LINKS = {
     # booking button on /lowry. Never the 30 minute call.
     'LOWRY_BOOKING': 'https://cal.com/mindfullypriya/lowry-client-free-coaching-session',
     'BOOK_SHORT': 'https://cal.com/mindfullypriya/15min',
+    # Your Space, This Christmas: the paid one-off hour, its own Cal.com event.
+    'BOOK_YOUR_SPACE': 'https://cal.com/mindfullypriya/your-space-this-christmas',
     # Paid sessions are arranged on the call and invoiced, so they route to the
     # same call rather than a checkout.
     'BOOK_CLARITY': 'https://cal.com/mindfullypriya/30min',

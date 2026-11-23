@@ -72,18 +72,11 @@ Most people leave with one or two small, realistic steps, a fresh way of looking
 
 My hope for the hour is a simple one: to help make a difficult Christmas a little more manageable, a little more meaningful, and a little gentler on you.
 
-## The details
-
-- **One-off session:** 60 minutes, one-to-one
-- **Where:** online, from wherever you feel comfortable
-- **Cost:** £45, a special Christmas rate, because I know that finances can already feel stretched at this time of year
-- **Commitment:** none beyond the hour itself
-
 Although much of my work is with women juggling family responsibilities, Your Space is open to anyone who is finding this Christmas difficult.
 
 ## Booking your hour
 
-If any of this feels close to home, I would be glad to hear from you. You can email me at [hello@mindfullypriya.com](mailto:hello@mindfullypriya.com), or [book a short call](/mindfully-priya-booking) and we will find a time for your hour that suits you.
+If any of this feels close to home, I would be glad to hear from you. You can [book your hour here]({{LINK:BOOK_YOUR_SPACE}}) and choose a time that suits you. If you have a question first, you are very welcome to email me at [hello@mindfullypriya.com](mailto:hello@mindfullypriya.com).
 
 We cannot always change our circumstances, but we can find ways to support ourselves through them. Even when Christmas looks different from what we had hoped, there may still be room for comfort, connection and a few moments of joy.
 
