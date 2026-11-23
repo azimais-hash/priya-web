@@ -5,8 +5,8 @@ layout: post
 heading: When Christmas Feels Hard This Year: A Little Space for You
 date: 2026-11-23
 read: 7 min read
-image: c9d0c5cd83
-image_alt: A steaming cup of tea on a wooden table beside a window in soft winter light
+image: 1151a9bd0d
+image_alt: Two hands in a knitted jumper holding a speckled mug, with soft Christmas fairy lights glowing in the background
 draft: true
 ---
 
