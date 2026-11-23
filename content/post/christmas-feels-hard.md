@@ -7,7 +7,6 @@ date: 2026-11-23
 read: 7 min read
 image: 1151a9bd0d
 image_alt: Two hands in a knitted jumper holding a speckled mug, with soft Christmas fairy lights glowing in the background
-draft: true
 ---
 
 The lights are going up on the high street, the adverts have started, and everyone around you seems to be making plans and talking about what they are looking forward to. And yet, for you, something feels very different this year. Perhaps even the thought of Christmas feels heavy. If that is where you are right now, I want you to know that you are far from alone, and that there is nothing wrong with you for feeling this way.
