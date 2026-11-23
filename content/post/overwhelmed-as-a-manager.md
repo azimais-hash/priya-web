@@ -7,7 +7,6 @@ date: 2026-11-23
 read: 7 min read
 image: f0c74a99c8
 image_alt: A woman in glasses sitting at her office desk with her head in her hands, looking tired and overwhelmed in front of an open laptop and notebook
-draft: true
 ---
 
 You are the one who notices when someone on your team has gone quiet. You remember whose mum is unwell, who is worried about their review, and who needs a little extra encouragement before a big meeting. You take the difficult news from above and find a way to share it kindly. And then, at the end of a long day, you sit in the car or on the train home and realise that nobody has asked how you are doing. If that feels familiar, I wrote this for you.
