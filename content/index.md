@@ -124,7 +124,7 @@ image: 30adefd260
       <p class="big">I know what it's like to hold a great deal together and still feel like something's quietly missing underneath.</p>
       <p>I've spent years working with women who are capable and caring, yet privately running on empty. Women who give so much to everyone around them that they've lost the thread back to themselves.</p>
       <p>My work is simple. I create a calm, honest space, and I sit with you while you find your way back.</p>
-      <div class="actions"><a class="btn-link" href="/mindfully-priya-coaching">Read more</a></div>
+      <div class="actions"><a class="btn-link" href="/mindfully-priya-coaching">Read more about my coaching</a></div>
     </div>
   </div>
 </section>
