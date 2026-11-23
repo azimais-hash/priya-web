@@ -5,8 +5,8 @@ layout: post
 heading: Overwhelmed as a Manager: When You Support Everyone Else
 date: 2026-11-23
 read: 7 min read
-image: 21bf7dae3b
-image_alt: A professional woman in a beige blazer holding a tablet, standing by a glass partition in a modern office while two colleagues talk in the background
+image: f0c74a99c8
+image_alt: A woman in glasses sitting at her office desk with her head in her hands, looking tired and overwhelmed in front of an open laptop and notebook
 draft: true
 ---
 
