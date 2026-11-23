@@ -83,7 +83,7 @@ image: 30adefd260
 
 <section class="band band-teal" style="margin-block:0">
   <div class="split wrap">
-    <img src="/images/9ad6d2ba38.jpg" alt="A woman carrying a large blue backpack, looking out to sea">
+    <img src="/images/9ad6d2ba38.jpg" alt="A woman carrying a large blue backpack, looking out to sea" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow">The backpack</p>
       <h2>What does coaching actually feel like?</h2>
@@ -104,7 +104,7 @@ image: 30adefd260
 
 <section class="band band-sand" style="margin-block:0">
   <div class="wrap split landscape reverse">
-    <img src="/images/679e86cb88.jpg" alt="A hand writing in a notebook beside a lake">
+    <img src="/images/679e86cb88.jpg" alt="A hand writing in a notebook beside a lake" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow">Start privately</p>
       <h2>Not ready for a conversation? Begin with The Reconnection.</h2>
@@ -117,7 +117,7 @@ image: 30adefd260
 
 <section class="section">
   <div class="wrap split reverse">
-    <img src="/images/3a4833976c.jpg" alt="Priya Khan, smiling, wearing a yellow scarf">
+    <img src="/images/3a4833976c.jpg" alt="Priya Khan, smiling, wearing a yellow scarf" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow">Certified Life Coach &amp; Mindfulness Expert</p>
       <h2>Meet Priya</h2>
@@ -177,14 +177,14 @@ image: 30adefd260
   <div class="wrap">
     <p class="eyebrow">Accreditations and Certifications</p>
     <ul class="badges">
-      <li><img src="/images/bcfa94a77f.png" alt="ICF ACC badge"></li>
-      <li><img src="/images/4f0366137a.png" alt="iPEC Certified Professional Coach"></li>
-      <li><img src="/images/f6efb5f15d.png" alt="ELI Master Practitioner"></li>
-      <li><img src="/images/82fa2b2f1a.png" alt="COR.E Transitions Dynamics Specialist"></li>
-      <li><img src="/images/f6eff30505.png" alt="British Mindfulness Institute"></li>
-      <li><img src="/images/d7fbe446d3.png" alt="Trained to Teach .b, Mindfulness in Schools Project"></li>
-      <li><img src="/images/a2fb63eafe.png" alt="Connected Kids certification"></li>
-      <li><img src="/images/de3d8ce8a0.jpg" alt="Millennial Life Coaches 2026 Coach of the Year finalist"></li>
+      <li><img src="/images/bcfa94a77f.png" alt="ICF ACC badge" loading="lazy" decoding="async"></li>
+      <li><img src="/images/4f0366137a.png" alt="iPEC Certified Professional Coach" loading="lazy" decoding="async"></li>
+      <li><img src="/images/f6efb5f15d.png" alt="ELI Master Practitioner" loading="lazy" decoding="async"></li>
+      <li><img src="/images/82fa2b2f1a.png" alt="COR.E Transitions Dynamics Specialist" loading="lazy" decoding="async"></li>
+      <li><img src="/images/f6eff30505.png" alt="British Mindfulness Institute" loading="lazy" decoding="async"></li>
+      <li><img src="/images/d7fbe446d3.png" alt="Trained to Teach .b, Mindfulness in Schools Project" loading="lazy" decoding="async"></li>
+      <li><img src="/images/a2fb63eafe.png" alt="Connected Kids certification" loading="lazy" decoding="async"></li>
+      <li><img src="/images/de3d8ce8a0.jpg" alt="Millennial Life Coaches 2026 Coach of the Year finalist" loading="lazy" decoding="async"></li>
     </ul>
   </div>
 </section>
